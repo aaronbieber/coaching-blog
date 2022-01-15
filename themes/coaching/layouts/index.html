@@ -1,0 +1,47 @@
+{{ define "main" }}
+<div class="blog-list" id="yui_3_17_2_1_1642283819519_571">
+
+  {{ range (.Paginate (where .Site.RegularPages "Type" "in" "posts") 5).Pages }}
+  <article class="entry h-entry hentry author-aaron-bieber post-type-text article-index-1">
+    <header class="entry-header">
+      <div class="meta-above-title">
+
+        <div class="entry-dateline">
+          <time class="dt-published published entry-date">
+            <a href="{{ .Permalink }}" class="entry-dateline-link">{{ .Date | dateFormat "January 2, 2006" }}</a>
+          </time>
+        </div>
+
+      </div>
+      <h1 data-content-field="title" class="entry-title p-name">
+        <a href="{{ .Permalink }}" class="u-url" rel="bookmark">{{ .Title | title }}</a>
+      </h1>
+    </header>
+
+    <div class="entry-content">
+      <div class="p-summary">
+        <p class="">{{ .Summary }}</p></div>
+
+      {{ if .Truncated }}
+      <p class="entry-more-link"><a data-read-more="Read More" href="{{ .Permalink }}">Read more &rarr;</a></p>
+      {{ end }}
+    </div>
+  </article>
+  {{ end }}
+
+  {{ with .Paginator }}
+  <div class="pagination">
+    {{ if .HasNext }}
+      <a class="prev basic-alignment left" href="{{ .Next.URL }}">&larr; Older</a>
+    {{ end }}
+
+    {{ if .HasPrev }}
+      <a class="next basic-alignment right" href="{{ .Prev.URL }}">Newer &rarr;</a>
+    {{ end }}
+
+    <a class="basic-alignment center center-text" href="/archive.html">Blog Archives</a>
+  </div>
+  {{ end }}
+
+</div>
+{{ end }}

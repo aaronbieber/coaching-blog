@@ -7,10 +7,10 @@ I almost can't believe it, but it's still happening. It's the year 2020
 and business leaders are still saying things like "I need one or two
 senior Java resources."
 
-This word, "resources," when used to refer to people, is *damaging to
+This word, "resources," when used to refer to people, is *damaging to
 your organization*. There are very few cases where people working on a
 project are fungible assets in all practicality, but even in those
-cases, not recognizing them as human beings is *insulting at best*.
+cases, not recognizing them as human beings is *insulting at best*.
 
 If you want to be the inspiring, charismatic, and successful leader of
 smart, creative people who solve hard problems and love every second of
@@ -18,7 +18,7 @@ it, let's get this one simple thing clear: we're all human beings. We
 all have our own thoughts, feelings, motivations, interests, and so on.
 
 Calling a person a "resource" (even if it is a hypothetical person
-rather than an actual one) is denying yourself access to the *biggest
+rather than an actual one) is denying yourself access to the *biggest
 motivational lever there is*.
 
 That's why the third principle of [The Engineering Manager's

@@ -2,4 +2,5 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="/css/style.css" rel="stylesheet"/>
   <link rel="stylesheet" href="https://use.typekit.net/gur7hoz.css">
+  <title>{{ .Page.Title }}{{ if not (eq .Page.Title .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
 </head>

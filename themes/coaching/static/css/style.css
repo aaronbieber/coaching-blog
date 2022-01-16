@@ -130,6 +130,56 @@ main, nav, section, summary {
   right: 0;
 }
 
+#footer {
+  color: rgba(255, 255, 255, 0.4);
+  background-color: #1f1f1f;
+}
+
+.footer-inner {
+  padding: 64px 32px;
+  box-sizing: border-box;
+  max-width: 1020px;
+  width: auto;
+  margin: auto;
+}
+
+#siteInfo {
+  text-align: center;
+  font-family: proxima-nova;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#siteInfo a {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#footerBlocks {
+  margin-top: 1.5em;
+  text-align: center;
+}
+
+#footerBlocks {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+#footerBlocks a,
+#footerBlocks a:hover,
+#footerBlocks a:visited {
+  color: rgba(255, 255, 255, 0.4);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
+
+#footerBlocks p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .desc-wrapper {
   z-index: 100;
   position: relative;
@@ -202,4 +252,29 @@ article header h1 a {
 
 .blog-item {
   color: rgba(26, 26, 26, 0.7);
+}
+
+.blog-item .entry-title {
+  font-size: 39px;
+  color: black;
+  margin-bottom: 1em;
+}
+
+.blog-item h2 {
+  font-size: 25px;
+}
+
+.blog-item h1 {
+  font-size: 35px;
+}
+
+.blog-item h1, h2, h3 {
+  font-family: proxima-nova;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+}
+
+.blog-item img {
+  max-width: 700px;
 }

@@ -459,5 +459,6 @@ article header h1 a {
 }
 
 .blog-item img {
+  width: 100%;
   max-width: 700px;
 }

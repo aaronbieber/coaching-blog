@@ -42,7 +42,7 @@ created what I am calling "The Engineering Manager's Charter," which is
 a set of **six simple principles** that embody what I believe is the key
 set of behaviors anyone can learn and apply.
 
-If you look closely, you can see where I was inspired by Google’s
+If you look closely, you can see where I was inspired by Google's
 Project Oxygen and successful habits within Amazon among others.
 
 You can [read the full charter here](https://aaronbieber.coach/charter).
@@ -67,18 +67,18 @@ better at providing timely feedback, and I need to put some effort into
 getting closer to the work so that I can help out in a more hands-on way
 when needed.
 
-On the positive side, I’m very good at applying coaching methods to
-guide folks toward their own answers, I’m allergic to micromanagement,
-and I think I’m a better than OK writer.
+On the positive side, I'm very good at applying coaching methods to
+guide folks toward their own answers, I'm allergic to micromanagement,
+and I think I'm a better than OK writer.
 
-Keep in mind that these principles are “north star” goals, and are also
+Keep in mind that these principles are "north star" goals, and are also
 situational. While everyone would wish to have their scores steadily
-creep upward until they’re all 10s, it’s more likely that they’ll
+creep upward until they're all 10s, it's more likely that they'll
 fluctuate. Your work environment, your area(s) of focus, and feedback
 you get from others all factor in.
 
 For those reasons, check in with yourself regularly and think about how
-you’re doing in each area. Are you making the progress that you want to,
+you're doing in each area. Are you making the progress that you want to,
 in the areas that are most important for right now?
 
 If you want my help to remind you to check in, [subscribe to my

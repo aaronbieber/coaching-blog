@@ -7,6 +7,8 @@
   <title>{{ .Page.Title }}{{ if not (eq .Page.Title .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
 
   {{ if .IsPage }}
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:title" content="{{ .Page.Title }}" />
   <meta property="og:description" content="{{ .Summary }}" />
   <meta property="og:image" content="/face-logo-128.png" />
@@ -14,5 +16,6 @@
   <meta name="twitter:site" content="@aaronbieber" />
   <meta name="twitter:title" content="{{ .Page.Title }}" />
   <meta name="twitter:description" content="{{ .Summary }}" />
+  <meta name="twitter:image" content="/face-logo-128.png" />
   {{ end }}
 </head>

@@ -9,5 +9,10 @@
   {{ if .IsPage }}
   <meta property="og:title" content="{{ .Page.Title }}" />
   <meta property="og:description" content="{{ .Summary }}" />
+  <meta property="og:image" content="/face-logo-128.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@aaronbieber" />
+  <meta name="twitter:title" content="{{ .Page.Title }}" />
+  <meta name="twitter:description" content="{{ .Summary }}" />
   {{ end }}
 </head>

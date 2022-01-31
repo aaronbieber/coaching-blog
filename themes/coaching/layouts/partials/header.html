@@ -21,7 +21,7 @@
             </a>
           </div>
           <div class="collection active">
-            <a href="https://blog.aaronbieber.coach/">
+            <a href="{{ .Site.BaseURL }}">
               Blog
             </a>
           </div>
@@ -37,10 +37,16 @@
   </div>
 </header>
 
+{{ .Scratch.Set "banner" "https://images.squarespace-cdn.com/content/v1/5d9fb37da46cb72295018ff0/1571044469444-DNZ3XMDI3NIJCAQH2XEF/image-asset.jpeg?format=2500w" }}
+{{ if and .IsPage .Params.image }}
+{{ $img := .Params.image | printf "%s/%s" "/uploads" }}
+{{ .Scratch.Set "banner" $img }}
+{{ end }}
+
 <div class="banner-thumbnail-wrapper has-description" data-content-field="main-image">
   <div class="color-overlay"></div>
   <figure id="thumbnail" class="loading content-fill" style="overflow: hidden;">
-    <img src="https://images.squarespace-cdn.com/content/v1/5d9fb37da46cb72295018ff0/1571044469444-DNZ3XMDI3NIJCAQH2XEF/image-asset.jpeg?format=2500w" style="font-size: 0px; left: 0px; position: relative;">
+    <img src="{{ .Scratch.Get "banner" }}" style="font-size: 0px; left: 0px; position: relative;">
 
   </figure>
   <div class="desc-wrapper" data-content-field="description">

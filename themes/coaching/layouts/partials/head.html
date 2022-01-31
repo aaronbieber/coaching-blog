@@ -6,15 +6,20 @@
   <link rel="stylesheet" href="https://use.typekit.net/gur7hoz.css">
   <title>{{ .Page.Title }}{{ if not (eq .Page.Title .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
   {{ if .IsPage }}
+  {{ .Scratch.Set "image" (.Site.BaseURL | printf "%s/twitter-banner-500.png") }}
+  {{ if and .IsPage .Params.image }}
+  {{ $img := .Params.image | printf "%s/%s/%s" .Site.BaseURL "uploads" }}
+  {{ .Scratch.Set "image" $img }}
+  {{ end }}
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:title" content="{{ .Page.Title }}" />
   <meta property="og:description" content="{{ .Summary }}" />
-  <meta property="og:image" content="{{ .Site.BaseURL }}/face-logo-128.png" />
+  <meta property="og:image" content="{{ .Scratch.Get "image" }}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@aaronbieber" />
   <meta name="twitter:title" content="{{ .Page.Title }}" />
   <meta name="twitter:description" content="{{ .Summary }}" />
-  <meta name="twitter:image" content="{{ .Site.BaseURL }}/twitter-banner-500.png" />
+  <meta name="twitter:image" content="{{ .Scratch.Get "image" }}" />
   {{ end }}
 </head>

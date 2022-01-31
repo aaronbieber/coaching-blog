@@ -1,6 +1,7 @@
 ---
 title: "Passion for your job is a mistake"
 date: 2022-01-21T09:17:02-05:00
+image: passion-for-your-job-is-a-mistake.jpg
 ---
 
 Job listings, especially at start-ups, frequently appear to be in search of "a

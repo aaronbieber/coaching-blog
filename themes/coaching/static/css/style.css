@@ -467,3 +467,16 @@ article header h1 a {
 #comments-heading {
   margin-top: 3em;
 }
+
+#photo_attribution {
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  left: 50%;
+  display: inline-block;
+  transform: translate(-50%, 0);
+  margin: 1em 0 0 0;
+  padding: 0.5em 1em;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 0.8em;
+}

@@ -480,3 +480,12 @@ article header h1 a {
   color: rgba(0, 0, 0, 0.7);
   font-size: 0.8em;
 }
+
+.infobox {
+  border: 1px solid silver;
+  border-radius: 5px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  padding: 1em;
+  line-height: 1.5em;
+}

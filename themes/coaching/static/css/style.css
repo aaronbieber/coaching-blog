@@ -489,3 +489,18 @@ article header h1 a {
   padding: 1em;
   line-height: 1.5em;
 }
+
+blockquote {
+  border-left: 4px solid rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  padding: 0.2em 1em;
+}
+
+blockquote p {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}

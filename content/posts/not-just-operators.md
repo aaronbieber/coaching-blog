@@ -1,7 +1,6 @@
 ---
 title: "Not just operators"
 date: 2022-02-10T06:10:35-05:00
-draft: true
 image: not-just-operators.jpg
 image_attribution: Benjamin Wedemeyer
 ---
@@ -10,28 +9,30 @@ To make a real impact in your work, and on the world, you need more than one
 type of person. That sounds obvious, given our understanding of the importance
 of diversity, but we need more than differing *perspectives*, we also need
 differing *personalities*, and there is a simple way to think about it that
-can help you find lasting success.
+can help you *build* a successful environment around you.
 
 The moment I began to understand how I fit into these three simple types, it
 gave me an entirely new perspective on my work.<!--more-->
 
-Shreyas Doshi, a product management leader who cut his teeth at Yahoo!, Google,
+[Shreyas Doshi][shreyas], a product management leader who cut his teeth at Yahoo!, Google,
 and Twitter, describes three types of product leaders (though I believe that
 this applies much more broadly):
+
+[shreyas]: https://twitter.com/shreyas
 
 1. The operator
 2. The craftsperson
 3. The visionary
 
-In his words, operators are "excellent at scaling teams, cross-org alignment,
+In his words, **operators** are "excellent at scaling teams, cross-org alignment,
 unblocking execution." They're great at communication. They're not great at
 original insights.
 
-Craftspeople are excellent at "defining products and strategy, mentoring
+**Craftspeople** are excellent at "defining products and strategy, mentoring
 [others]." They're not great at original insights, and they struggle with large
 orgs and the associated burdens.
 
-Visionaries are excellent at "big-picture thinking, inventing what's next."
+**Visionaries** are excellent at "big-picture thinking, inventing what's next."
 They see what others can't. They fall short on people issues and scaling without
 help.
 
@@ -64,7 +65,7 @@ These are obviously very personal questions, and I don't have all the
 answers. In my coaching practice, I'm very often able to tap into my listening
 and pattern-matching skills, and I hired a coach because I need someone to be my
 "operator" and hold me accountable on tactics. Those are two ways that knowing
-this has helped me create a successful environment.
+this has helped me create a successful environment for myself.
 
 Think about these questions for yourself. Where can you lean into your
-innate superpowers? How can you empower others to fill your natural gaps?
+*innate superpowers*? How can you empower others to fill your natural gaps?

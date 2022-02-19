@@ -1,14 +1,14 @@
 ---
 title: "Open any door"
-date: 2022-02-09T09:14:35-05:00
-draft: true
+date: 2022-02-19T13:14:35-05:00
 image: open-any-door.jpg
 image_attribution: moren hsu
 ---
 
 You've heard the saying "You can lead a horse to water, but you can't make it
-drink." Or maybe you've heard the more modern version in The Matrix, "I can only
-show you the door, you're the one who has to walk through it."
+drink." Or maybe you've heard the more modern version spoken by Morpheus in The
+Matrix, "I can only show you the door, you're the one who has to walk through
+it."
 
 Opportunity abounds, and you face choices every single day about how to invest a
 slice of your time in walking through one of those doors. But... Which one
@@ -29,7 +29,7 @@ lot of options for what next step to take. What if I told you that it doesn't
 matter? At least, not as much as you think it does.
 
 In Buddhist teachings, there are 84,000 doors that all lead to
-enlightenment. Literally 84,000. The point of knowing this is to free you from
+enlightenment. Literally 84,000. The purpose in knowing this is to free you from
 "analysis paralysis." There is no way that you can know which door is the
 "absolute best door." Choose any door.
 

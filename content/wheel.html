@@ -589,7 +589,44 @@ layout: "page"
     </g>
 </svg>
 
+<table>
+  <tr>
+    <th>Task Management</th>
+    <td id="tm">?</td>
+  </tr>
+
+  <tr>
+    <th>Goal-setting</th>
+    <td id="gs">?</td>
+  </tr>
+
+  <tr>
+    <th>Connection & Support</th>
+    <td id="cs">?</td>
+  </tr>
+
+  <tr>
+    <th>Servant Leadership</th>
+    <td id="sl">?</td>
+  </tr>
+
+  <tr>
+    <th>Giving Feedback</th>
+    <td id="gf">?</td>
+  </tr>
+
+  <tr>
+    <th>Communication</th>
+    <td id="co">?</td>
+  </tr>
+</table>
+
 <style type="text/css">
+  th {
+    text-align: right;
+    padding-right: 1em;
+  }
+
   .segment {
     fill: white;
     stroke: black;
@@ -644,6 +681,17 @@ layout: "page"
    var el = e.target || e.srcElement;
    var id = el.id;
    var [seg, num] = id.split("-");
+
+   var map = {
+     "nnw": "co",
+     "nne": "tm",
+     "e": "gs",
+     "sse": "cs",
+     "ssw": "sl",
+     "w": "gf"
+   }
+
+   document.getElementById(map[seg]).innerHTML = num;
 
    for (var i=1; i<=10; i++) {
      document.getElementById(seg + "-" + i).classList.remove("hover");

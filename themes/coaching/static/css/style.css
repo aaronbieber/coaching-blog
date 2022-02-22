@@ -523,11 +523,25 @@ blockquote p:last-child {
 }
 
 img.drop {
+  max-width: 60%;
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+  border-radius: 5px;
+}
 
+@media only screen and (max-width: 550px) {
+  img.drop {
+    max-width: 90%;
+  }
 }
 
 img.left {
-
+  width: inherit;
+  max-width: 30%;
+  float: left;
+  margin: 0 0.5em 0.5em 0;
 }
 
 img.right {
@@ -578,4 +592,72 @@ img.right {
 
 .wheel-page path.off {
   fill: white;
+}
+
+.button-medium {
+  background-color: rgb(61, 116, 199);
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  display: block;
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: 21.6px;
+  letter-spacing: 2.25px;
+  line-height: normal;
+  padding-bottom: 21px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 21px;
+  text-align: center;
+  text-decoration-color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.1s;
+  transition-property: opacity;
+  transition-timing-function: linear;
+  width: 251.5px;
+  margin: 0 auto;
+}
+
+.button-small {
+  background-color: rgb(248, 189, 53);
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  border-top-left-radius: 300px;
+  border-top-right-radius: 300px;
+  color: rgb(0, 0, 0);
+  display: inline-block;
+  font-family: proxima-nova;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 2px;
+  line-height: 17px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 17px;
+  padding-left: 29.75px;
+  padding-right: 29.75px;
+  padding-top: 17px;
+  text-align: center;
+  text-decoration-color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.1s;
+  transition-property: opacity;
+  transition-timing-function: linear;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.button-medium:hover,
+.button-small:hover {
+  opacity: 0.8;
 }

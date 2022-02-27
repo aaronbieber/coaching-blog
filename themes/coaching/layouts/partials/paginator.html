@@ -1,0 +1,13 @@
+{{ with .Paginator }}
+<div class="pagination">
+  {{ if .HasNext }}
+  <a class="prev basic-alignment left" href="{{ .Next.URL }}">&larr; Older</a>
+  {{ end }}
+
+  {{ if .HasPrev }}
+  <a class="next basic-alignment right" href="{{ .Prev.URL }}">Newer &rarr;</a>
+  {{ end }}
+
+  <!-- <a class="basic-alignment center center-text" href="/archive.html">Blog Archives</a> -->
+</div>
+{{ end }}

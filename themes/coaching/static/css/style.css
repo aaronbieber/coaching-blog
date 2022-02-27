@@ -661,3 +661,14 @@ img.right {
 .button-small:hover {
   opacity: 0.8;
 }
+
+#draft-warning {
+  border: 1px solid red;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+  padding: 0.5em;
+  border-radius: 5px;
+  /* background-image: repeating-linear-gradient(45deg, #fff, #fff 30px, #ffeeee 30px, #ffeeee 60px); */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 3em;
+}

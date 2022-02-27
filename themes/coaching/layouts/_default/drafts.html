@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+  {{ range where .Site.RegularPages "Type" "in" "posts" }}
+    {{- partial "articles.html" . -}}
+  {{ end }}
+
+  <hr/>
+
+  {{- partial "paginator.html" . -}}
+
+{{ end }}

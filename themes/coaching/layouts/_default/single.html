@@ -1,4 +1,9 @@
 {{ define "main" }}
+
+{{ if eq .Draft true }}
+<div id="draft-warning">This is an unpublished draft. Please keep it to yourself.</div>
+{{ end }}
+
 <div class="blog-item">
   <h1>{{ .Title }}</h1>
 

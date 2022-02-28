@@ -10,7 +10,7 @@ scale:
 | xargs -I'{}' convert {} -resize '1500x1500>' -verbose {}
 
 build:
-	hugo --cleanDestinationDir -e production
+	hugo --cleanDestinationDir -D -e production
 
 deploy: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)

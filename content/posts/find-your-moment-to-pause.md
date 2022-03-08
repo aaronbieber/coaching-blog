@@ -1,6 +1,6 @@
 ---
 title: "Find your moment to pause"
-date: 2022-03-01T07:02:23-05:00
+date: 2022-03-08T07:02:23-05:00
 ---
 
 {{< img right "/uploads/slack-red-dot.png" >}}

@@ -1,9 +1,17 @@
 ---
 title: "The when/then trap"
-date: 2022-02-13T13:46:52-05:00
+date: 2022-03-19T13:46:52-04:00
 draft: true
 image: the-when-then-trap.jpg
 image_attribution: Aron Visuals
+newsletter: |
+    This is the part where I write some long paragraph of text that should
+    appear within the newsletter only; so I basically want to publish this to a
+    secret RSS feed.
+    
+    Can I make this do paragraphs.
+    
+    Like what if I did this though?
 ---
 
 From RadReads:

@@ -69,8 +69,3 @@ If you work for a company that has "bad" values, consider how you can interpret
 them for your teams so they can be used to make decisions. Or, perhaps better
 yet, define your own set of values for your teams and recognize people who
 demonstrate them.
-
-## Hiring and attrition
-
-
-## Conclusions

@@ -1,7 +1,6 @@
 ---
 title: "Defeat analysis paralysis"
 date: 2022-03-29T10:30:10-04:00
-draft: true
 image: defeat-analysis-paralysis.jpg
 image_attribution: Burst
 ---

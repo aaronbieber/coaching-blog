@@ -1,3 +1,0 @@
-#+TITLE: Posting in Org
-#+DRAFT: t
-#+DATE: 2022-03-29

@@ -1,4 +1,11 @@
 {{ define "main" }}
+
+<div class="subscribe">
+  <a class="button-small" href="https://aaronbieber.coach/subscribe">Subscribe</a>
+</div>
+
+<hr/>
+
 <div class="blog-list" id="yui_3_17_2_1_1642283819519_571">
 
   {{ .Scratch.Set "pages" (where .Site.RegularPages "Type" "in" "posts") }}

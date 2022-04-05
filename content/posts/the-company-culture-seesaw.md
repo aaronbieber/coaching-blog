@@ -1,6 +1,6 @@
 ---
 title: "The company culture seesaw"
-date: 2022-03-28T12:22:12-04:00
+date: 2022-04-28T12:22:12-04:00
 draft: true
 image: any-image.jpg
 image_attribution: Joe Photographer

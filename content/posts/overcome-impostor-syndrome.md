@@ -1,7 +1,6 @@
 ---
 title: "Overcome impostor syndrome"
-date: 2022-04-04T11:17:44-04:00
-draft: true
+date: 2022-04-05T08:17:44-04:00
 image: overcome-impostor-syndrome.jpg
 image_attribution: Sander Meyer
 ---

@@ -1,9 +1,8 @@
 ---
 title: "Ambition to opportunity ratio"
 date: 2022-04-19T13:34:46-04:00
-draft: true
-image: any-image.jpg
-image_attribution: Joe Photographer
+image: ambition-to-opportunity-ratio.jpg
+image_attribution: "@jasonhogan on Unsplash"
 ---
 
 You want something in your career. What is it? Advancement in specific skills?
@@ -30,42 +29,55 @@ have. Are you working to get promoted, or preparing to interview for a bigger
 role at a new company? Is that what you really want, or are you seeking a title
 bump because that's what we're told we're *supposed to do*?
 
+If you're unsure, ask yourself: "What will be true for me when I achieve X?"
+
+Second, is your vision aligned to your values? An ambitious vision for the
+future will only be achievable if it is along a path of *your values in
+action*. If achieving your ambitions requires sacrificing things that are very
+important to you, you might want to reevaluate the vision.
+
+For instance, if your ambition is to achieve a high level of seniority in your
+role, which requires sacrificing some work/life balance, but balance between
+your personal and professional life is a value that you hold, you might be
+setting yourself up to fail, or to be miserable in your success.
+
 ## Build an environment
 
+In your career, your manager probably wields a great deal of power over which of
+your ambitions are achievable for you. If you are a manager, you wield this
+power over your direct reports, too.
 
+Whether you are the manager or the direct report in this scenario, a
+conversation about ambitions and opportunities is important to have. If you are
+seeking skills advancement for example, how can your manager help to place you
+on projects where those skills would be valuable?
 
+Sometimes, a conversation like this leads to a realization that you are in the
+wrong team, role, or company. That is a powerful conclusion to reach, and it
+will be easier to arrive at if you have the conversation periodically. I
+typically advise talking about bigger career goals at least once a quarter.
 
+Coaching is also a powerful tool to discover what you *really want* and what it
+means for you to achieve it. My own coach has helped me clarify what I'm working
+toward, and helps me plot that path, week by week.
 
-Or aspiration vs. opportunity.
+## Dream big, move small
 
-A topic that you could discuss with your manager, or your coach. What is your
-personal growth or career vision?
+Take some time, by yourself, to consider whether the vision you hold for
+yourself is *ambitious enough*. Especially in the case of entrepreneurs and
+leaders, a vision is more compelling when it is *audacious*. Remember, you don't
+need to achieve the whole vision all at once.
 
-Questions to ask:
+Maybe your ambition is to write a textbook that teaches people an obscure
+programming language. That could be a great goal for the year, and it's
+definitely a difficult and rewarding task, but is it a great vision? What if
+your vision was to *teach one million people* the programming language?
 
-1. Is your vision big enough?
+Finally, no matter what your goals are, make consistent, small moves toward
+them.
 
-   Your vision should be SCARY BIG. It is more inspirational to others who may
-   be able to help you if your vision is something a little bit frightening.
+My coach likes to ask "What's the biggest smallest thing you could do?" Biggest
+meaning that it's meaningful, purposeful; and smallest meaning it's clear and
+achievable.
 
-2. How is your vision aligned to your values?
-
-   A really ambition vision will only be achievable if it's along a path of your
-   values in action. If achieving your ambition requires sacrificing things that
-   are very important to you, you're telling yourself a lie.
-
-   Some example here could be... If you wish to attain a very high level of
-   seniority, it is likely that you'll have to prioritize work over other things
-   in your life. If one of your values is balance among those things, you're
-   unlikely to achieve your stated goal.
-
-3. What is the biggest (meaningful), smallest (clear and achievable) thing you
-   can do to get closer to your goal?
-
-   The important question is: can you see exactly how to lean into that next
-   step in your current environment? If your growth vision is to help as many
-   people as you can achieve the next step in their technical careers, and
-   everyone you work with is at your experience level or higher, you have no
-   opportunity to grow people in the way you dream.
-
-   Either change your dream, or change your environment.
+Do the biggest smallest thing every day.

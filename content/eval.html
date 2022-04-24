@@ -1,0 +1,21 @@
+---
+type: "page"
+layout: "page"
+---
+<iframe
+  id="frame"
+  style="border: none;"
+  width="100%"
+  scrolling="no"
+  src="/flowchart/"></iframe>
+
+<script>
+ let frame = document.querySelector("#frame")
+
+ const resizeFrame = () => {
+   frame.style.height = (frame.contentDocument.body.scrollHeight + 50) + "px"
+   setTimeout(resizeFrame, 50)
+ }
+
+ frame.addEventListener("load", resizeFrame)
+</script>

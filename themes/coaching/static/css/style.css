@@ -435,7 +435,7 @@ article header h1 a {
 }
 
 .blog-item,
-.wheel-page {
+.page {
   color: rgba(26, 26, 26, 0.7);
 }
 
@@ -446,20 +446,20 @@ article header h1 a {
 }
 
 .blog-item h2,
-.wheel-page h2 {
+.page h2 {
   font-size: 25px;
 }
 
 .blog-item h1,
-.wheel-page h1 {
+.page h1 {
   font-size: 35px;
 }
 
 .blog-item h1,
 .blog-item h2,
 .blog-item h3,
-.wheel-page h1,
-.wheel-page h2 {
+.page h1,
+.page h2 {
   font-family: proxima-nova;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -551,7 +551,7 @@ img.right {
   margin: 0 0 0.5em 0.5em;
 }
 
-.wheel-page dt {
+.page dt {
   font-family: proxima-nova;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -559,38 +559,38 @@ img.right {
   font-weight: bold;
 }
 
-.wheel-page dd {
+.page dd {
   margin-bottom: 1em;
 }
 
-.wheel-page hr {
+.page hr {
   margin: 1em 0;
 }
 
-.wheel-page th {
+.page th {
   text-align: right;
   padding-right: 1em;
 }
 
-.wheel-page .segment {
+.page .segment {
   fill: white;
   stroke: black;
   stroke-width: 0.4px;
 }
 
-.wheel-page path.hover {
+.page path.hover {
   fill: #eeeeee;
 }
 
-.wheel-page path.on {
+.page path.on {
   fill: #1B74FA;
 }
 
-.wheel-page path.on-hover {
+.page path.on-hover {
   fill: #7AADFA;
 }
 
-.wheel-page path.off {
+.page path.off {
   fill: white;
 }
 

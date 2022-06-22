@@ -1,7 +1,6 @@
 ---
 title: "Go with your gut"
 date: 2022-06-21T13:22:08-04:00
-draft: true
 image: go-with-your-gut.jpg
 image_attribution: "@mahbodakhzami on Unsplash"
 ---
@@ -90,7 +89,8 @@ heard of include *prejudice* and *unconscious bias*.
 
 Nevertheless, your intuition delivers mountains of data that you can *only
 access* if you open your consciousness to recognize that hunch, that
-indescribable sense, that *feeling in your gut*.
+indescribable sense, that *feeling in your gut*. Sometimes the answer is not
+useful, and other times it is *extremely useful*.
 
 Intuition is used to great effect by professional athletes, elite security
 personnel, and even stockbrokers.

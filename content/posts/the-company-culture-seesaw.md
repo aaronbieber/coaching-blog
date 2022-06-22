@@ -11,9 +11,9 @@ people is hard to overstate. If a company's culture is the sum of its values and
 its behavior patterns, the culture of a company is nothing less than its *recipe
 for success*.
 
-As a founder or leader, how can you build or shape the culture of your company
-or team to mix up that *perfect recipe* that leads to the success you and your
-customers desire?
+As a leader, how can you build or shape the culture of your company or team to
+mix up that *perfect recipe* that leads to the success you and your customers
+desire?
 
 <!--more-->
 

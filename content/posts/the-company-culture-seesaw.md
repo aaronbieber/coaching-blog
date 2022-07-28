@@ -6,6 +6,23 @@ image: any-image.jpg
 image_attribution: Joe Photographer
 ---
 
+- What is culture, and why should you want one?
+  - Culture is an *emergent property* of behavior
+  - In a "hot" job market, culture is a massive differentiator
+  - "Culture" defines what employees can expect from a company's future behavior
+  - Having a well-defined culture that observably exists is a talent magnet and
+    a powerful retention tool
+    
+- Your manifesto falls short
+  - A culture code, or manifesto, or core values are aspirational artifacts of
+    what leadership hopes culture could or should be
+  - Culture is *not* the writing on the wall
+    - Anything written is only a wish, it is not the culture
+    - Just like any metric is a proxy for the thing, it is not "the thing"
+
+- The only way to reliably mutate the culture is hire too many people too fast
+- The only way to reliably repair a broken culture is to let people go(?)
+
 The power of an organization's culture to align, inspire, and motivate its
 people is hard to overstate. If a company's culture is the sum of its values and
 its behavior patterns, the culture of a company is nothing less than its *recipe

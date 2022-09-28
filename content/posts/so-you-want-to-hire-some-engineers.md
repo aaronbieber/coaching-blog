@@ -1,7 +1,6 @@
 ---
 title: "So you want to hire some engineers?"
 date: 2022-09-16T11:47:23-04:00
-draft: true
 image: so-you-want-to-hire-some-engineers.jpg
 image_attribution: "@wocintechchat on Unsplash"
 ---
@@ -27,8 +26,8 @@ your team today? As we say in most engineering matters, "it depends," but these
 are my *earnestly held beliefs* about what matters most:
 
  1. Attract (enough of) the right people,
- 2. Conduct an exceptional interview
- 3. Sell what's important
+ 2. Conduct an exceptional interview, and
+ 3. Sell what's important.
  
 This is going to be a long one because there is a lot to say and it's all important.
 

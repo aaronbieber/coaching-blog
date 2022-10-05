@@ -18,6 +18,10 @@ architecture).
 **As leaders, one of our primary exports is decisions.** We all make them, every
 day, and sometimes those decisions have far-reaching downstream consequences.
 
+<!--more-->
+
+{{< dots >}}
+
 When you make a decision, does the *process* in any way make it easier for you
 to make decisions in the future? Have you "improved the architecture" to prevent
 future bugs, or have you only fixed the bug itself?
@@ -36,8 +40,6 @@ little more murky.
 
 [Subscribe here](https://aaronbieber.coach/subscribe) so you don't miss part 2
 when it comes out!
-
-<!--more-->
 
 {{< dots >}}
 

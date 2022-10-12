@@ -515,17 +515,6 @@ article header h1 a {
   line-height: 1.5em;
 }
 
-blockquote:before {
-  font-size: 0.9em;
-  content: "📌";
-  opacity: 75%;
-  filter: grayscale(100%);
-  position: absolute;
-  margin-left: -2.8em;
-  margin-top: 0;
-  color: #bbb;
-}
-
 blockquote {
   border-left: 2px solid rgba(0, 0, 0, 0.3);
   padding: 0.2em 1em;

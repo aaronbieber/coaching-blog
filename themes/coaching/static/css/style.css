@@ -426,6 +426,13 @@ body .entry + .entry {
   font-weight: 400;
 }
 
+img.entry-image {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+  max-height: 300px;
+}
+
 article header h1 a {
   color: rgba(26, 26, 26, 0.9);
 }

@@ -1,7 +1,6 @@
 ---
 title: "What's really important?"
-date: 2022-10-14T06:58:28-04:00
-draft: true
+date: 2022-10-19T09:00:28-04:00
 image: whats-really-important.jpg
 image_attribution: "Midjourney AI"
 ---
@@ -47,8 +46,6 @@ that:
 
 {{< dots >}}
 
-{{< img "card" "/uploads/whats-really-important/light-rail.jpg" >}}
-
 The only reason anyone does more than the bare minimum at their job is that
 there is *some intrinsic purpose* in the work for them.
 
@@ -60,6 +57,8 @@ described as "the carrot and the stick."
 
 The carrot might be recognition, promotion, or a bonus. The stick might be a
 PIP, or being removed from a team or project, or the risk of getting fired.
+
+{{< img "card" "/uploads/whats-really-important/light-rail.jpg" >}}
 
 But it's "motivation 3.0" that gets a Wikipedia editor like [Pi.1415926535][pi]
 to submit over 35,000 edits to (mostly) Boston MBTA transit pages over the
@@ -96,9 +95,12 @@ Observe focus groups?
 ### What have we been hired to do?
 
 Go one step deeper than the product or service. I worked for Wayfair, which
-sells furniture and home decor products, but just selling lots of end tables
-isn't the *reason* the company exists. The deeper purpose is to help people
-"have a home they love."
+sells furniture and home decor products, but just selling end tables isn't the
+*mission*. The deeper purpose was to help people "create a home they love."
+
+If you worked at Hulu on transcoding or browse features, your surface-level job
+is to improve the customer experience in some way, but the deeper mission
+(according to Hulu) is "to captivate and connect people with stories they love."
 
 ### How do you make a difference?
 
@@ -109,12 +111,12 @@ customer, or to the team, or to you as their manager.
 Show them how their work makes others' lives better.
 
 Deliver the second paycheck through an actual conversation (whether verbal,
-email, or Slack, it doesn't matter). Connect their work to its purpose, and
-ideally do this for specific work efforts, using detailed language.
+email, or Slack, it doesn't matter). Connect their specific work to its purpose,
+using detailed language.
 
 ## Questions for you
 
-1. What part of your job is important to you? Who do you serve?
+1. What about your job is important to you?
 
 2. How will you connect your team's work to a purpose this week?
 

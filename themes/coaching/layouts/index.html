@@ -1,25 +1,40 @@
 {{ define "main" }}
 
-<div class="subscribe">
-  <a class="button-small" href="https://aaronbieber.coach/subscribe">Subscribe</a>
+<div class="homepage_content">
+  <img class="subscribe_hero" src="/images/stand-out.jpg" />
+
+  <p>
+    Engineering leadership is hard, and the last thing the world needs is
+    more bad managers.
+  </p>
+
+  <p>
+    I share <strong>one big idea</strong> and <strong>three
+    questions</strong> each week to expand and deepen your engineering
+    leadership.
+  </p>
+
+  <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+  <![endif]-->
+  <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+  <script>
+   hbspt.forms.create({
+     region: "na1",
+     portalId: "4674402",
+     formId: "bdd366ea-47c9-4774-881f-272507d2cd60"
+   });
+  </script>
+
+  <!-- <div class="subscribe">
+       <a class="button-small" href="https://aaronbieber.coach/subscribe">Subscribe</a>
+       </div>
+  -->
+
+  <hr />
+  <div class="skip_subscribe">
+  <a href="/posts/">Let me read it first »</a>
+  </div>
 </div>
 
-<hr/>
-
-<div class="blog-list" id="yui_3_17_2_1_1642283819519_571">
-
-  {{ .Scratch.Set "pages" (where .Site.RegularPages "Type" "in" "posts") }}
-  {{ if eq hugo.Environment "production" }}
-    {{ .Scratch.Set "pages" (where (where .Site.RegularPages "Draft" false) "Type" "in" "posts") }}
-  {{ end }}
-
-  {{ range (.Paginate (.Scratch.Get "pages") 5).Pages }}
-    {{- partial "articles.html" . -}}
-  {{ end }}
-
-  <hr/>
-
-  {{- partial "paginator.html" . -}}
-
-</div>
 {{ end }}

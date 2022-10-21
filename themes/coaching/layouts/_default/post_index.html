@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <div class="blog-list" id="yui_3_17_2_1_1642283819519_571">
+    {{ .Scratch.Set "pages" (where .Site.RegularPages "Type" "in" "posts") }}
+    {{ if eq hugo.Environment "production" }}
+    {{ .Scratch.Set "pages" (where (where .Site.RegularPages "Draft" false) "Type" "in" "posts") }}
+    {{ end }}
+
+    {{ range (.Paginate (.Scratch.Get "pages") 5).Pages }}
+    {{- partial "articles.html" . -}}
+    {{ end }}
+
+    <hr/>
+
+    {{- partial "paginator.html" . -}}
+  </div>
+{{ end }}

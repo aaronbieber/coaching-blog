@@ -11,11 +11,15 @@
 
       </div>
 
-
       {{ if and .IsPage .Params.image }}
         {{ $img := .Params.image | printf "%s/%s" "/uploads" }}
+        {{ $imgPath := $img | printf "%s%s" "/static" }}
         <a href="{{ .Permalink }}">
+          {{ if fileExists $imgPath }}
             <img class="entry-image" src="{{ $img }}" />
+          {{ else }}
+            <img class="entry-image" src="https://via.placeholder.com/500x250" />
+          {{ end }}
         </a>
       {{ end }}
 

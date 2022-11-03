@@ -497,6 +497,13 @@ article header h1 a {
   margin: 0.5em 0 1.2em 0;
 }
 
+.blog-item figcaption {
+  text-align: center;
+  margin-top: -1.2em;
+  font-size: 0.9em;
+  margin-bottom: 1.2em;
+}
+
 .blog-item .dots {
   text-align: center;
   font-weight: normal;

@@ -927,3 +927,19 @@ background-color: #FF6600
   background-color: #1f1f1f;
   padding: 0;
 }
+
+.blog-item ul li,
+.blog-item ol li {
+  margin-bottom: 1.2em;
+}
+
+.blog-item ul li ul,
+.blog-item ol li ul
+.blog-item ul li ol
+.blog-item ol li ol {
+  margin-top: 1.2em;
+}
+
+.blog-item ul li p {
+  margin: 0;
+}

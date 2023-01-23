@@ -4,7 +4,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 
 article, aside, details, figcaption,
@@ -395,7 +395,7 @@ main, nav, section, summary {
 .pagination a,
 .entry-content a,
 .blog-item a {
-  color: #3d9991;
+  color: #3d74c7;
 }
 
 hr {
@@ -573,6 +573,7 @@ a.subscribe {
   margin: 0 auto;
   padding: 5px 15px;
   border-radius: 4px;
+  text-decoration: none;
   background: #c00;
   color: white;
   font-family: Roboto, Noto, Helvetica, sans-serif;

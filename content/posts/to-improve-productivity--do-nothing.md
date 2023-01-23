@@ -1,6 +1,6 @@
 ---
 title: "To improve productivity do nothing"
-date: 2023-01-12T16:11:31-05:00
+date: 2023-01-12T09:11:31-05:00
 image: to-improve-productivity.png
 image_attribution: Midjourney AI
 ---

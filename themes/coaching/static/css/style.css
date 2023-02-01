@@ -428,6 +428,10 @@ body .entry + .entry {
   font-weight: 400;
 }
 
+.entry-title a {
+  text-decoration: none;
+}
+
 img.entry-image {
   width: 100%;
   border-radius: 8px;

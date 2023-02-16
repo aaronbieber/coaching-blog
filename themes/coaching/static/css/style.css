@@ -289,7 +289,6 @@ main, nav, section, summary {
   }
 }
 
-
 #footer {
   color: rgba(255, 255, 255, 0.4);
   background-color: #1f1f1f;
@@ -735,6 +734,32 @@ img.right {
   /* background-image: repeating-linear-gradient(45deg, #fff, #fff 30px, #ffeeee 30px, #ffeeee 60px); */
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
   margin-bottom: 3em;
+}
+
+/* God save you if you use a superscript for something other than a
+   footnote reference. */
+sup {
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.75em;
+}
+
+.footnote-ref {
+  line-height: 0;
+  padding: 0 0.15em;
+  text-decoration: none;
+  border: 1px solid #3d74c7;
+  border-radius: 3px;
+  margin-left: 0.25em;
+  font-size: 0.8em;
+}
+
+.footnote-backref {
+  text-decoration: none;
+  padding: 0 0.25em;
+  border: 1px solid #3d74c7;
+  border-radius: 4px;
 }
 
 .footnote-definition sup {

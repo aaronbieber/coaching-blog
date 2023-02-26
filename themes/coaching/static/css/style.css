@@ -973,3 +973,14 @@ background-color: #FF6600
 .blog-item ul li p {
   margin: 0;
 }
+
+div.promo_box {
+  border-top: 2px solid silver;
+  border-bottom: 2px solid silver;
+  padding: 0.5em 1em;
+  margin: 2em 0 2em 0;
+}
+
+div.promo_box p:last-child {
+  margin-bottom: 0;
+}

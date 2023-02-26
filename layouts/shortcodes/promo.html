@@ -1,0 +1,7 @@
+{{ $promo := readFile "/content/promo.md" }}
+{{ $promo_len := len $promo }}
+{{ if gt $promo_len 5 }}
+<div class="promo_box">
+  {{ readFile "/content/promo.md" | markdownify }}
+</div>
+{{ end }}

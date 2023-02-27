@@ -975,9 +975,9 @@ background-color: #FF6600
 }
 
 div.promo_box {
-  border-top: 2px solid silver;
-  border-bottom: 2px solid silver;
-  padding: 0.5em 1em;
+  border-top: 5px double goldenrod;
+  border-bottom: 5px double goldenrod;
+  padding: 0.8em 1.4em;
   margin: 2em 0 2em 0;
 }
 

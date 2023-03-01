@@ -1,3 +1,5 @@
 languageCode = 'en-us'
-title = 'Aaron Bieber - Your Technologist Coach'
-theme = "coaching"
+title = 'The Curious Leader'
+theme = 'coaching'
+[params]
+  subtitle = 'Big ideas to catalyze your growth'

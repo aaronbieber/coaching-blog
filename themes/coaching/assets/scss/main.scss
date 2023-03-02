@@ -176,8 +176,13 @@ main, nav, section, summary {
     padding-top: 20px !important;
   }
 
-  .desc-wrapper p strong {
+  .desc-wrapper p {
     font-size: 30px !important;
+
+    span {
+      font-size: 25px !important;
+      margin-top: 5px;
+    }
   }
 
   #thumbnail img {
@@ -349,41 +354,31 @@ main, nav, section, summary {
   padding: 32px;
   text-align: center;
   text-rendering: optimizeLegibility;
-}
 
-.desc-wrapper p {
-  font-family: adobe-garamond-pro;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 24px;
-  letter-spacing: 1px;
-  color: white;
-  line-height: 1.5em;
-  margin: 20px auto;
-}
+  p {
+    letter-spacing: 1px;
+    white-space: pre-wrap;
+    display: block;
+    font-family: proxima-nova;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 68px;
+    text-transform: uppercase;
+    line-height: 1em;
+    color: white;
+    text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 0.5em 0;
+    border-radius: 10px;
 
-.desc-wrapper p {
-  white-space: pre-wrap;
-  display: block;
-  font-family: proxima-nova;
-  font-weight: 700;
-  font-style: normal;
-  font-size: 68px;
-  text-transform: uppercase;
-  line-height: 1em;
-  color: white;
-  text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.4);
-  background-color: rgba(0, 0, 0, 0.4);
-  padding: 0.5em 0;
-  border-radius: 10px;
-}
-
-.desc-wrapper p span {
-  font-weight: normal;
-  text-transform: none;
-  font-family: adobe-garamond-pro;
-  display: inline-block;
-  font-size: 50px;
+    span {
+      font-weight: normal;
+      text-transform: none;
+      font-family: adobe-garamond-pro;
+      display: block;
+      font-size: 50px;
+    }
+  }
 }
 
 #page {
@@ -392,13 +387,13 @@ main, nav, section, summary {
   margin: auto;
   max-width: 1020px;
   padding: 46px 32px;
-}
 
-#page #content {
-  width: 100%;
-  max-width: 700px;
-  display: block;
-  margin: 0 auto;
+  #content {
+    width: 100%;
+    max-width: 700px;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 .entry-more-link a,
@@ -625,47 +620,49 @@ img.right {
   margin: 0 0 0.5em 0.5em;
 }
 
-.page dt {
-  font-family: proxima-nova;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-  font-weight: bold;
-}
+.page {
+  dt {
+    font-family: proxima-nova;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    font-weight: bold;
+  }
 
-.page dd {
-  margin-bottom: 1em;
-}
+  dd {
+    margin-bottom: 1em;
+  }
 
-.page hr {
-  margin: 1em 0;
-}
+  hr {
+    margin: 1em 0;
+  }
 
-.page th {
-  text-align: right;
-  padding-right: 1em;
-}
+  th {
+    text-align: right;
+    padding-right: 1em;
+  }
 
-.page .segment {
-  fill: white;
-  stroke: black;
-  stroke-width: 0.4px;
-}
+  .segment {
+    fill: white;
+    stroke: black;
+    stroke-width: 0.4px;
+  }
 
-.page path.hover {
-  fill: #eeeeee;
-}
+  path.hover {
+    fill: #eeeeee;
+  }
 
-.page path.on {
-  fill: #1B74FA;
-}
+  path.on {
+    fill: #1B74FA;
+  }
 
-.page path.on-hover {
-  fill: #7AADFA;
-}
+  path.on-hover {
+    fill: #7AADFA;
+  }
 
-.page path.off {
-  fill: white;
+  path.off {
+    fill: white;
+  }
 }
 
 .button-medium {
@@ -773,12 +770,14 @@ sup {
   border-radius: 4px;
 }
 
-.footnote-definition sup {
-  float: left;
-}
+.footnote-definition {
+  sup {
+    float: left;
+  }
 
-.footnote-definition .footnote-body {
-  margin-left: 1.5em;
+  .footnote-body {
+    margin-left: 1.5em;
+  }
 }
 
 /* Social sharing icons */
@@ -975,8 +974,8 @@ background-color: #FF6600
 }
 
 .blog-item ul li ul,
-.blog-item ol li ul
-.blog-item ul li ol
+.blog-item ol li ul,
+.blog-item ul li ol,
 .blog-item ol li ol {
   margin-top: 1.2em;
 }
@@ -996,7 +995,7 @@ div.promo_box p:last-child {
   margin-bottom: 0;
 }
 
-.blog-item p code {
+p code {
   font-size: 0.8em;
   color: green;
   padding: 0 0.4em;

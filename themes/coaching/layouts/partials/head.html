@@ -6,11 +6,19 @@
   {{ $options := (dict "outputstyle" "compressed") }}
   {{ $styles := resources.Get "scss/main.scss" | toCSS $options }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" type="text/css" media="screen" />
+
   <link rel="stylesheet" href="https://use.typekit.net/gur7hoz.css">
+
   {{ with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
-  <title>{{ .Page.Title }}{{ if not (eq .Page.Title .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
+
+  {{ .Scratch.Set "title" .Page.Title }}
+  {{ if (eq (.Scratch.Get "title") "") }}
+    {{ .Scratch.Set "title" .Site.Title }}
+  {{ end }}
+  <title>{{ .Scratch.Get "title" }}{{ if not (eq (.Scratch.Get "title") .Site.Title) }} — {{ .Site.Title }}{{ end }}</title>
+
   {{ if .IsPage }}
   {{ .Scratch.Set "image" (.Site.BaseURL | printf "%s/twitter-banner-500.png") }}
   {{ if and .IsPage .Params.image }}

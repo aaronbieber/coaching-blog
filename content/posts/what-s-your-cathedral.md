@@ -3,6 +3,7 @@ title: "What's your cathedral?"
 date: 2022-12-16T13:58:54-05:00
 image: whats-your-cathedral.png
 image_attribution: Midjourney AI
+anchorURL: https://anchor.fm/aaron-bieber/embed/episodes/Whats-your-cathedral-e1vmu83
 ---
 
 One of my favorite topics is culture and incentives, which I've

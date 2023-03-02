@@ -3,6 +3,7 @@ title: "Great leaders humanize"
 date: 2023-02-02T08:30:01-05:00
 image: great-leaders-humanize.png
 image_attribution: Midjourney AI
+anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/Great-leaders-humanize-e1vn556
 ---
 
 All companies beyond a certain size are sociopathic colony organisms that regard

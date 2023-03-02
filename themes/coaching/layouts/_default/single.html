@@ -10,6 +10,16 @@
 
   <h1>{{ .Title }}</h1>
 
+  {{ if .Params.anchorURL }}
+  <div class="anchor-player">
+    <iframe src="{{ .Params.anchorURL }}"
+            style="width: 100%;"
+            height="102px"
+            frameborder="0"
+            scrolling="no"></iframe>
+  </div>
+  {{ end }}
+
   {{ .Content }}
 
   <div class="subscribe-cta">

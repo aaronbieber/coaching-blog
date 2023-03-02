@@ -2,7 +2,6 @@ $desktop-width: 1020px;
 $tablet-width: 850px;
 $phone-width: 550px;
 
-
 body {
   margin: 0;
   background-color: #1f1f1f;
@@ -451,77 +450,150 @@ article header h1 a {
   color: rgba(26, 26, 26, 0.7);
 }
 
-.blog-item,
-.page {
+.blog-item, .page {
   color: rgba(26, 26, 26, 0.7);
+
+  .entry-title {
+    font-size: 39px;
+    color: black;
+    margin-bottom: 1em;
+  }
+
+  h1, h2, h3 {
+    text-transform: uppercase;
+    font-family: proxima-nova;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+  }
+
+  h1 {
+    font-size: 35px;
+  }
+
+  h2 {
+    font-size: 25px;
+  }
+
+  h3 {
+    font-size: 25px;
+    text-transform: none;
+  }
+
+  ul, ol {
+    li {
+      margin-bottom: 1.2em;
+
+      p {
+        margin: 0;
+      }
+
+      ul, ol {
+        margin-top: 1.2em;
+      }
+    }
+  }
+
+  div.promo_box {
+    border-top: 5px double goldenrod;
+    border-bottom: 5px double goldenrod;
+    padding: 0.8em 1.4em;
+    margin: 2em 0 2em 0;
+  }
+
+  div.promo_box p:last-child {
+    margin-bottom: 0;
+  }
+
+  .anchor-player {
+    margin-top: 1.75em;
+    margin-bottom: 1em;
+  }
+
+  img {
+    width: 100%;
+    max-width: 700px;
+
+    &.left {
+      width: inherit;
+      max-width: 30%;
+      float: left;
+      margin: 0 0.5em 0.5em 0;
+    }
+
+    &.right {
+      width: inherit;
+      max-width: 30%;
+      float: right;
+      margin: 0 0 0.5em 0.5em;
+    }
+
+    &.card {
+      border-radius: 8px;
+      box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+      margin: 0.5em 0 1.2em 0;
+    }
+  }
+
+  figcaption {
+    text-align: center;
+    margin-top: -1.2em;
+    font-size: 0.9em;
+    margin-bottom: 1.2em;
+  }
+
+  .dots {
+    text-align: center;
+    font-weight: normal;
+    font-size: 0.5em;
+    letter-spacing: 10px;
+    margin: 0 0 1.2em 0;
+  }
+
+  p {
+    margin: 0 0 1.2em 0;
+  }
+
+  /* God save you if you use a superscript for something other than a
+   footnote reference. */
+  sup {
+    line-height: 0;
+    vertical-align: baseline;
+    position: relative;
+    top: -0.75em;
+  }
+
+  .footnote-ref {
+    line-height: 0;
+    padding: 0 0.15em;
+    text-decoration: none;
+    border: 1px solid #3d74c7;
+    border-radius: 3px;
+    margin-left: 0.25em;
+    font-size: 0.8em;
+  }
+
+  .footnote-backref {
+    text-decoration: none;
+    padding: 0 0.25em;
+    border: 1px solid #3d74c7;
+    border-radius: 4px;
+  }
+
+  .footnote-definition {
+    sup {
+      float: left;
+    }
+
+    .footnote-body {
+      margin-left: 1.5em;
+    }
+  }
 }
 
-.blog-item .entry-title {
-  font-size: 39px;
-  color: black;
-  margin-bottom: 1em;
-}
-
-.blog-item h2,
-.page h2 {
-  font-size: 25px;
-}
-
-.blog-item h1,
-.page h1 {
-  font-size: 35px;
-}
-
-.blog-item h1,
-.blog-item h2,
-.blog-item h3,
-.page h1,
-.page h2 {
-  font-family: proxima-nova;
-  letter-spacing: 0.05em;
-  font-weight: 600;
-}
-
-.blog-item h1,
-.blog-item h2,
-.wheel-page h1,
-.wheel-page h2 {
-  text-transform: uppercase;
-}
-
-.blog-item h3 {
-  font-size: 25px;
-  text-transform: none;
-}
-
-.blog-item img {
-  width: 100%;
-  max-width: 700px;
-}
-
-.blog-item img.card {
-  border-radius: 8px;
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
-  margin: 0.5em 0 1.2em 0;
-}
-
-.blog-item figcaption {
-  text-align: center;
-  margin-top: -1.2em;
-  font-size: 0.9em;
-  margin-bottom: 1.2em;
-}
-
-.blog-item .dots {
-  text-align: center;
-  font-weight: normal;
-  font-size: 0.5em;
-  letter-spacing: 10px;
-  margin: 0 0 1.2em 0;
-}
-
-.blog-item p {
-  margin: 0 0 1.2em 0;
+p code {
+  font-size: 0.8em;
+  color: green;
+  padding: 0 0.4em;
 }
 
 #comments-heading {
@@ -597,26 +669,10 @@ img.drop {
   padding: 10px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
   border-radius: 5px;
-}
 
-@media only screen and (max-width: 550px) {
-  img.drop {
+  @media only screen and (max-width: #{$phone-width}) {
     max-width: 90%;
   }
-}
-
-img.left {
-  width: inherit;
-  max-width: 30%;
-  float: left;
-  margin: 0 0.5em 0.5em 0;
-}
-
-img.right {
-  width: inherit;
-  max-width: 30%;
-  float: right;
-  margin: 0 0 0.5em 0.5em;
 }
 
 .page {
@@ -738,45 +794,8 @@ img.right {
   border-bottom-width: 2px;
   padding: 0.5em;
   border-radius: 5px;
-  /* background-image: repeating-linear-gradient(45deg, #fff, #fff 30px, #ffeeee 30px, #ffeeee 60px); */
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
   margin-bottom: 3em;
-}
-
-/* God save you if you use a superscript for something other than a
-   footnote reference. */
-sup {
-  line-height: 0;
-  vertical-align: baseline;
-  position: relative;
-  top: -0.75em;
-}
-
-.footnote-ref {
-  line-height: 0;
-  padding: 0 0.15em;
-  text-decoration: none;
-  border: 1px solid #3d74c7;
-  border-radius: 3px;
-  margin-left: 0.25em;
-  font-size: 0.8em;
-}
-
-.footnote-backref {
-  text-decoration: none;
-  padding: 0 0.25em;
-  border: 1px solid #3d74c7;
-  border-radius: 4px;
-}
-
-.footnote-definition {
-  sup {
-    float: left;
-  }
-
-  .footnote-body {
-    margin-left: 1.5em;
-  }
 }
 
 /* Social sharing icons */
@@ -965,42 +984,4 @@ background-color: #FF6600
 .homepage .banner-thumbnail-wrapper {
   background-color: #1f1f1f;
   padding: 0;
-}
-
-.blog-item ul li,
-.blog-item ol li {
-  margin-bottom: 1.2em;
-}
-
-.blog-item ul li ul,
-.blog-item ol li ul,
-.blog-item ul li ol,
-.blog-item ol li ol {
-  margin-top: 1.2em;
-}
-
-.blog-item ul li p {
-  margin: 0;
-}
-
-div.promo_box {
-  border-top: 5px double goldenrod;
-  border-bottom: 5px double goldenrod;
-  padding: 0.8em 1.4em;
-  margin: 2em 0 2em 0;
-}
-
-div.promo_box p:last-child {
-  margin-bottom: 0;
-}
-
-p code {
-  font-size: 0.8em;
-  color: green;
-  padding: 0 0.4em;
-}
-
-.anchor-player {
-  margin-top: 1.75em;
-  margin-bottom: 1em;
 }

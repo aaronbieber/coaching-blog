@@ -32,7 +32,13 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      <description>
+        {{ if .Params.anchorURL }}
+        {{ $url := replace .Params.anchorURL "/embed" "" }}
+        <p><a href="{{ $url }}">🔊 Listen to the podcast of this issue!</a></p>
+        {{ end }}
+        {{ .Content | html }}
+      </description>
     </item>
     {{ end }}
   </channel>

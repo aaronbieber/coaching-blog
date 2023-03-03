@@ -25,6 +25,10 @@
 
       <h1 data-content-field="title" class="entry-title p-name">
         <a href="{{ .Permalink }}" class="u-url" rel="bookmark">{{ .Title }}</a>
+        {{ if .Params.anchorURL }}
+          {{ $url := replace .Params.anchorURL "/embed" "" }}
+        <a href="{{ $url }}" target="_blank">🔊</a>
+        {{ end }}
       </h1>
     </header>
 

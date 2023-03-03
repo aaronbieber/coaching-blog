@@ -4,15 +4,15 @@
 <header id="header" class="show-on-scroll">
   <div class="header-inner">
     <div id="logoWrapper" class="wrapper" data-content-field="site-title">
-      <h1 id="logoImage"><a href="https://aaronbieber.coach"><img src="//images.squarespace-cdn.com/content/v1/5d9fb37da46cb72295018ff0/1573778134831-M0VO0M68E4KWJVNK682I/Face+logo.png?format=1500w" alt="Aaron Bieber"></a></h1>
+      <h1 id="logoImage"><a href="{{ .Site.BaseURL }}"><img src="//images.squarespace-cdn.com/content/v1/5d9fb37da46cb72295018ff0/1573778134831-M0VO0M68E4KWJVNK682I/Face+logo.png?format=1500w" alt="Aaron Bieber"></a></h1>
     </div>
 
     <div id="headerNav">
       <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
         <nav id="mainNavigation" data-content-field="navigation-mainNav">
           <div class="collection homepage">
-            <a href="https://aaronbieber.coach">
-              Home
+            <a href="{{ .Site.BaseURL }}/posts">
+              Issues
             </a>
           </div>
           <div class="collection">
@@ -20,9 +20,9 @@
               Meet Aaron
             </a>
           </div>
-          <div class="collection active">
-            <a href="{{ .Site.BaseURL }}">
-              Blog
+          <div class="collection">
+            <a href="https://aaronbieber.coach">
+              Learn About Coaching
             </a>
           </div>
           <div class="collection">
@@ -33,7 +33,6 @@
         </nav>
       </div>
     </div>
-
   </div>
 </header>
 

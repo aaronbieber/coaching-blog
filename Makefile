@@ -1,9 +1,9 @@
-# Makefile for deploying blog.aaronbieber.com.
+# Makefile for deploying thecuriousleader.work.
 
 OPTS=-rvz --delete
 EXCLUDE=--exclude '.git*' --exclude '.*' --exclude '\#*\#' --exclude Makefile
 SRC=./public/
-DEST=airborne@aaronbieber.com:/var/www/blog.aaronbieber.coach/htdocs/
+DEST=airborne@aaronbieber.com:/var/www/thecuriousleader.work/htdocs/
 
 scale:
 	./scale-images.sh

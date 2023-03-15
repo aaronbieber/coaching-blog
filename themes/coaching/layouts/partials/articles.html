@@ -1,15 +1,15 @@
   <article class="entry h-entry hentry author-aaron-bieber post-type-text article-index-1">
     <header class="entry-header">
+
+      {{ if not hugo.IsProduction }}
       <div class="meta-above-title">
-
-        <!-- <div class="entry-dateline">
-             <time class="dt-published published entry-date">
-             <a href="{{ .Permalink }}" class="entry-dateline-link">{{ .Date | dateFormat "January 2, 2006" }}</a>
-             </time>
-             </div>
-        -->
-
+        <div class="entry-dateline">
+          <time class="dt-published published entry-date">
+            {{ .Date | dateFormat "January 2, 2006" }}
+          </time>
+        </div>
       </div>
+      {{ end }}
 
       {{ if and .IsPage .Params.image }}
         {{ $img := .Params.image | printf "%s/%s" "/uploads" }}

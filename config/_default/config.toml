@@ -3,3 +3,10 @@ title = 'The Curious Leader'
 theme = 'coaching'
 [params]
   subtitle = 'Big ideas to catalyze your growth'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true

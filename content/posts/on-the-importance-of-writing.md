@@ -3,10 +3,8 @@ title: "On the Importance of Writing"
 date: 2023-04-11T06:14:49-04:00
 image: on-the-importance-of-writing.png
 image_attribution: Midjourney AI
+anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/On-the-importance-of-writing-e22ncsp
 ---
-
-**NB:** *The podcast release of this issue will be delayed for logistical
-reasons, but if you prefer to listen, sit tight; it is coming!*
 
 Everyone is required to write almost continuously at work, and writing remains
 the single best solution to the many communication and collaboration challenges

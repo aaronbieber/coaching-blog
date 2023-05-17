@@ -10,6 +10,7 @@ scale:
 
 build:
 	hugo --cleanDestinationDir -D -e production
+	./list-todos.sh
 
 deploy: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)

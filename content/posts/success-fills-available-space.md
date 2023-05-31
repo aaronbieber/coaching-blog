@@ -1,10 +1,27 @@
 ---
 title: "Success fills available space"
-date: 2023-04-13T07:00:02-04:00
+date: 2023-05-31T06:00:02-04:00
 draft: true
 image: any-image.jpg
 image_attribution: Joe Photographer
 ---
+
+ * Leadership is about being a *conduit* for customer and business need
+
+ * Team needs are secondary to customer needs, but still more important than
+   your personal needs
+
+ * Of course this is contrary to all of our evolutionary instincts and our sense
+   of ego (?)
+
+ * The limits of success for your team, beyond obvious skill and resources
+   constraints, are at the edges of your own ego
+
+ * If you want your team to succeed, you need to get out of their way
+
+ * Chasing promotions, profits, etc., is the opposite of truly chasing success.
+   Success is a lagging proxy metric so it's hard to pin down (?)
+
 
 What could we learn from the failures of the Boeing 737 MAX and the Sears retail
 chain? What leadership mistakes were made?
@@ -19,6 +36,8 @@ their egos suffocate their teams.
 
 Sometimes the key to success---or to avoiding failure---is to do the thing that
 many leaders are afraid to: *let go*.
+
+
 
 <!--more-->
 {{< promo >}}

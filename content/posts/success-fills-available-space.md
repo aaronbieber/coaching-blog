@@ -6,6 +6,34 @@ image: any-image.jpg
 image_attribution: Joe Photographer
 ---
 
+There are some separate themes here:
+
+* Don't manage the "how," manage the "why." Very Simon Sinek, very Art of
+  Action. As a leader, especially a senior leader several levels removed from
+  the people doing the "real work," you serve the organization best by focusing
+  on the intent, the desired outcome.
+  
+* Focusing on "why" and "intent" are tactical implementations for the goal of
+  providing space and trust to teams. Fire people when they're not understanding
+  the outcome, when they're defying the desired outcome. Don't expect them to do
+  exactly what you would do.
+
+"If you could imagine it, you wouldn't need a team to do it."
+
+Teams build things you couldn't build on your own. By definition, a team builds
+something they invented. It serves a purpose that you've defined, but if you
+could imagine all the details of what it needed to be, why did you hire a team?
+
+I can already think of some leaders saying "I know how it should be, I just
+can't do it fast enough by myself." Maybe that's a bad reason to be in
+leadership? If you just need speed, or parallelism, bring in contractors.
+
+
+But what's the thesis?
+
+
+
+
  * Leadership is about being a *conduit* for customer and business need
 
  * Team needs are secondary to customer needs, but still more important than

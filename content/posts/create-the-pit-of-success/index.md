@@ -97,7 +97,7 @@ for self-guiding, self-healing, and fun on your own.
 
 The triple-loop strategy provides the blueprint.
 
-{{< img "/uploads/success-pit/the-triple-loop.png" >}}
+{{< img "" "/uploads/success-pit/the-triple-loop.png" >}}
 
 The three loops are:
 
@@ -167,7 +167,7 @@ the possible options and obstacles, and convert those ideas into action.
 Which solution is "best?" How will we make the solutions "stick?" Those are the
 questions answered by systemic coaching.
 
-{{< img "/uploads/success-pit/leader-progression.png" >}}
+{{< img "" "/uploads/success-pit/leader-progression.png" >}}
 
 A key component in a coaching approach is asking great questions. As you
 progress in seniority as a leader, your role becomes less about "having all the

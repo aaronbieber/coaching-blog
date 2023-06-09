@@ -182,7 +182,7 @@ build trust, and increase your impact. The first month's topic is agreements!
 
 The course starts in June, so [sign up soon](https://firstclasscoach.co)!
 
-<!-- TODO: remove after June 2023 -->
+<!-- TODO: remove after June 13, 2023 -->
 
 ## Questions for you
 

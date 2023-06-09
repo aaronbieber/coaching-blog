@@ -5,6 +5,9 @@ image: challenge-expectations.png
 image_attribution: Midjourney AI
 ---
 
+**NB:** *The podcast recording of this post will be available shortly, stay
+tuned!*
+
 This comic from "marketoonist.com" showed up on LinkedIn somewhere and made me
 laugh. It depicts one person boasting about using AI to expand a single bullet
 point into a lengthy email, and another person boasting about using AI to

@@ -167,23 +167,6 @@ Not only could your view be *wrong* (perish the thought), but their
 *interpretation* of your view might not even be correct! The cycle of rephrasing
 and confirming is not over until they say some variation of "That's right."
 
-## What else?
-
-There is much more that goes into creating, shaping, and confirming strong
-agreements. With these three tips, I believe that you'll see an immediate
-improvement in the quality of the information you gather and the durability of
-the agreements you create.
-
-When you're ready to learn more, consider registering for my three-month tech
-leadership course,
-[People Development for Development People](https://firstclasscoach.co).
-Each month we dive into a different leadership topic to help you save time,
-build trust, and increase your impact. The first month's topic is agreements!
-
-The course starts in June, so [sign up soon](https://firstclasscoach.co)!
-
-<!-- TODO: remove after June 13, 2023 -->
-
 ## Questions for you
 
 1. What could your team be misunderstanding each other about *right now*?

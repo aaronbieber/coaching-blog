@@ -27,7 +27,7 @@ At 17:32 UTC, Wikipedia editor "Sydwhunte" updated the Queen Elizabeth II page
 to reflect her death. Their change was the first of a *flurry* of edit conflicts
 on that page.
 
-![Edit conflicts graph](/uploads/whats-really-important/edit-conflicts.jpg) 
+{{< img "" "edit-conflicts.jpg" >}}
 
 The page was edited more than *55 times over the next 15 minutes* as editors
 changed verbs to past tense, updated the infobox, and so on. A "task force"
@@ -37,8 +37,7 @@ and the accession of Charles III."
 
 It started as six people and now has *20 people* on board.
 
-We are reminded by [depths of wikipedia][fun]
-that:
+We are reminded by [depths of wikipedia][fun] that:
 
 [fun]: https://twitter.com/depthsofwiki/status/1568101561137778689
 
@@ -58,7 +57,7 @@ described as "the carrot and the stick."
 The carrot might be recognition, promotion, or a bonus. The stick might be a
 PIP, or being removed from a team or project, or the risk of getting fired.
 
-{{< img "card" "/uploads/whats-really-important/light-rail.jpg" >}}
+{{< img "card" "light-rail.jpg" >}}
 
 But it's "motivation 3.0" that gets a Wikipedia editor like [Pi.1415926535][pi]
 to submit over 35,000 edits to (mostly) Boston MBTA transit pages over the

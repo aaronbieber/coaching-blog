@@ -35,7 +35,7 @@ Rubin created The Four Tendencies to help surface *why we act* and *why we don't
 act*. By understanding which of the Tendencies is dominant for you, you can
 adapt your circumstances to suit your nature.
 
-{{< img "drop" "/uploads/tendencies/the-four-tendencies.png" "(c) Gretchen Rubin" >}}
+{{< img "drop" "the-four-tendencies.png" "(c) Gretchen Rubin" >}}
 
 Each Tendency is a discrete combination of how you meet external expectations
 versus internal expectations. As with all of these "personality profile" tools,

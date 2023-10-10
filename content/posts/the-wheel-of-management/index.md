@@ -22,7 +22,7 @@ circle is divided into eight areas of life, and the concentric rings represent
 levels of satisfaction. You draw lines around the wheel to make your perceptions
 visible, and then we go from there.
 
-{{< img drop "/uploads/the-wheel-of-life.jpg" >}}
+{{< img drop "the-wheel-of-life.jpg" >}}
 
 The value that comes from the tool is derived from three key things:
 
@@ -47,7 +47,7 @@ may want to go flip through as a refresher.
 
 This is what I landed on (with random values filled in for illustration):
 
-{{< img drop "/uploads/the-wheel-of-management-real.jpg" >}}
+{{< img drop "the-wheel-of-management-real.jpg" >}}
 
 Again, the purpose here is primarily self-reflection, and to give you a more
 visual sense of what your balance looks like across the areas. Imagine that this

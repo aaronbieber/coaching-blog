@@ -28,7 +28,7 @@ low-hanging fruit: how to be a stellar meeting organizer.
 <!--more-->
 {{< dots >}}
 
-{{< img "card" "/uploads/meetings/cleese-in-bed.jpg" >}}
+{{< img "card" "cleese-in-bed.jpg" >}}
 
 In the 1976 John Cleese short film, "[Meetings, Bloody Meetings][mbm]," the wife of
 Cleese's character remarks that an appearance in court is basically the same
@@ -67,7 +67,7 @@ a synchronous gathering is necessary.
 
 ## Chair with due thought and preparation
 
-{{< img "card" "/uploads/meetings/judge.jpg" >}}
+{{< img "card" "judge.jpg" >}}
 
 Cleese's character falls asleep, and in his dream he's put on trial for his bad
 meeting behavior. The first charge he's accused of is "chairing without due
@@ -120,7 +120,7 @@ Rather than inviting anyone who could be interested, invite only people who will
 be able to *make a positive contribution*, and make that as few people as
 possible.
 
-{{< img "card" "/uploads/meetings/jeffrey-bezos.jpg" "Artistic rendering of Jeffrey Bezos eating pizza, by Midjourney AI" >}}
+{{< img "card" "jeffrey-bezos.jpg" "Artistic rendering of Jeffrey Bezos eating pizza, by Midjourney AI" >}}
 
 Jeffrey Bezos[^1] famously created the "two-pizza" rule, meaning that a
 meeting (or team) shouldn't have more people than two pizzas could feed. Use

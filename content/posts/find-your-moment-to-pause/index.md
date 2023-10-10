@@ -3,7 +3,7 @@ title: "Find your moment to pause"
 date: 2022-03-08T07:02:23-05:00
 ---
 
-{{< img right "/uploads/slack-red-dot.png" >}}
+{{< img right "slack-red-dot.png" >}}
 
 If you don't recognize that symbol to the right, you are (perhaps) among the
 lucky few. The icon is the "message waiting" indicator for the very popular

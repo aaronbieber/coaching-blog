@@ -31,7 +31,7 @@ There are really only a few things you *can* do:
 
 ## Don't go
 
-{{< img "card" "/uploads/meetings/inspiring-exit.jpg" "What is life without meetings?" >}}
+{{< img "card" "inspiring-exit.jpg" "What is life without meetings?" >}}
 
 I really consider this the "nuclear option." Unless you're working in a
 completely toxic, dysfunctional place (if so [let's chat][gs]), you've been
@@ -65,7 +65,7 @@ Read on for more tips on what to pull into that conversation.
 
 ## Nudge the organizer
 
-{{< img "card" "/uploads/meetings/a-cry-for-help.jpg" "Your meeting organizer (maybe) (artistic dramatization)" >}}
+{{< img "card" "a-cry-for-help.jpg" "Your meeting organizer (maybe) (artistic dramatization)" >}}
 
 If the meeting has no agenda, no stated objective, no pre-work, and/or a long
 list of non-optional attendees... This meeting might be a cry for help.

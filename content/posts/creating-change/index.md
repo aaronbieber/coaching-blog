@@ -19,7 +19,7 @@ core.
 
 ## Chesterton's Fence
 
-{{< img "card" "/uploads/creating-change/fence.png" >}}
+{{< img "card" "fence.png" >}}
 
 As English writer, philosopher, and critic G.K. Chesterton wrote in the 1929
 book "The Thing," (paraphrased):
@@ -45,7 +45,7 @@ compelling proposal for change.
 
 ## Experimental escape hatch
 
-{{< img "card" "/uploads/creating-change/experiment.png" >}}
+{{< img "card" "experiment.png" >}}
 
 Depending on the scope of the change you are contemplating and the culture of
 the organization, involved teams, etc., you may have an "easy out" at this
@@ -73,7 +73,7 @@ If that's the case, it's time to...
 
 ## Align the vectors
 
-{{< img "card" "/uploads/creating-change/puzzle.png" >}}
+{{< img "card" "puzzle.png" >}}
 
 It's time to write a proposal. A truly successful proposal, however, is not just
 a brilliant idea with an elegant implementation. The key to successful change

@@ -16,7 +16,7 @@ can hinder progress, create churn, and even add unnecessary stress and anxiety.
 Here are a few things you can do to be sure you're *getting communication right*
 in your distributed teams.<!--more-->
 
-{{< img "" "/uploads/hi-and-why-tweet.png" >}}
+{{< img "" "hi-and-why-tweet.png" >}}
 
 I love this "manager promise" from Matthew Rechs (above). This is a great rule
 for everyone to live by, but managers even moreso. If your manager sends you a

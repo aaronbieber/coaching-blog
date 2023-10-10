@@ -65,7 +65,7 @@ Intelligence saboteurs.
 
 As you can see, I'm a big time avoider:
 
-![My Saboteurs](/uploads/saboteurs.jpg)
+{{< img "" "saboteurs.jpg" >}}
 
 You'll get access to a more in-depth report that describes each saboteur in
 detail, which will help you to identify it when it's rearing its head.

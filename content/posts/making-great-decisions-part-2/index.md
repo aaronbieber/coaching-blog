@@ -27,7 +27,7 @@ tool. (If you do that, please write to me and tell me how it went!)
 
 ## "Xanax for decision-making"
 
-{{< img "card" "/uploads/decision-making/heading-xanax.png" >}}
+{{< img "card" "heading-xanax.png" >}}
 
 This approach was popularized by Flatiron Health CTO Gil Shklarski, who learned
 of it from his executive coach, Marcy Swenson.
@@ -46,7 +46,7 @@ irreversible, one of the later frameworks may be a better starting place.
 
 For each option, populate these rows:
 
-{{< img "center" "/uploads/decision-making/xanax-for-decision-making.png" >}}
+{{< img "center" "xanax-for-decision-making.png" >}}
 
 Shklarski offers some specific guidance on how to populate this chart:
 
@@ -87,7 +87,7 @@ understand what information and logic you applied to reach your conclusion.
 
 ## S.P.A.D.E.
 
-{{< img "card" "/uploads/decision-making/heading-spade.jpg" >}}
+{{< img "card" "heading-spade.jpg" >}}
 
 This technique was built by Gokul Rajaram during his time at Google and later
 Facebook, then was formalized and widely deployed at Square.
@@ -182,7 +182,7 @@ For even more detail, you can read Gokul's [S.P.A.D.E. Toolkit webpage][spade].
 
 ## Cynefin
 
-{{< img "card" "/uploads/decision-making/heading-cynefin.png" >}}
+{{< img "card" "heading-cynefin.png" >}}
 
 Created in 1999 by Dave Snowden, a Welsh management consultant, during his time
 at IBM Global Services, the [Cynefin][cynefin] (*kuh-NEV-in*; it's Welsh for
@@ -219,7 +219,7 @@ The goal is to progress through the domains until ultimately all is "clear." In
 order to do that, you must acquire new information. How to stabilize the
 situation and gather information differs in each domain.
 
-{{< img "center" "/uploads/decision-making/cynefin.png" >}}
+{{< img "center" "cynefin.png" >}}
 
 I'll briefly describe each domain, but if you're interested in this approach, I
 recommend reading the [detailed Wikipedia article][cynefin] about it.

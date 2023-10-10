@@ -70,7 +70,7 @@ he said it. Stephen Covey, author of "The 7 Habits of Highly Effective People,"
 also remembered it, and he turned it into the "matrix" version, seen below
 (credit to Asana[^1] for the graphic).
 
-{{< img "drop" "/uploads/decision-making/eisenhower-matrix.jpg" >}}
+{{< img "drop" "eisenhower-matrix.jpg" >}}
 
 [^1]: https://asana.com/resources/eisenhower-matrix
 
@@ -92,7 +92,7 @@ Farnam Street posted this derivation of the Eisenhower Matrix, simply called the
 in my analysis it could be used in similar circumstances as the Eisenhower
 Matrix.
 
-{{< img "center" "/uploads/decision-making/decision-matrix.png" >}}
+{{< img "center" "decision-matrix.png" >}}
 
 [^2]: https://fs.blog/decision-matrix/
 

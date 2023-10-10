@@ -6,6 +6,9 @@ image: any-image.jpg
 image_attribution: Joe Photographer
 ---
 
+This might not be the right title. Break this up into smaller bits and just post
+smaller things.
+
 There are some separate themes here:
 
 * Don't manage the "how," manage the "why." Very Simon Sinek, very Art of

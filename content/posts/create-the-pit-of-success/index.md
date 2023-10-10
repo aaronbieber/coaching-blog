@@ -29,7 +29,7 @@ this chaos, and to deliver the increasingly complex outcomes that customers
 demand. This is the crux of the problem: how can you build something durable
 when everything around you is constantly changing?
 
-{{< img "card" "/uploads/success-pit/change-all-around-you.jpg" "In a vortex of uncertainty" >}}
+{{< img "card" "change-all-around-you.jpg" "In a vortex of uncertainty" >}}
 
 "Waterfall" was the first attempt to put structure around our work, but it
 withstands very little unpredictability and is therefore only suited for highly
@@ -64,7 +64,7 @@ characteristics:
 
 * Fun (do you need a definition of fun?)
 
-{{< img "card" "/uploads/success-pit/smooth-sailing.jpg" "It's smooth sailing" >}}
+{{< img "card" "smooth-sailing.jpg" "It's smooth sailing" >}}
 
 When set up properly, the environment provides mechanisms that result in these
 outcomes autonomously, with as little intervention from you as possible. You
@@ -97,7 +97,7 @@ for self-guiding, self-healing, and fun on your own.
 
 The triple-loop strategy provides the blueprint.
 
-{{< img "" "/uploads/success-pit/the-triple-loop.png" >}}
+{{< img "" "the-triple-loop.png" >}}
 
 The three loops are:
 
@@ -167,7 +167,7 @@ the possible options and obstacles, and convert those ideas into action.
 Which solution is "best?" How will we make the solutions "stick?" Those are the
 questions answered by systemic coaching.
 
-{{< img "" "/uploads/success-pit/leader-progression.png" >}}
+{{< img "" "leader-progression.png" >}}
 
 A key component in a coaching approach is asking great questions. As you
 progress in seniority as a leader, your role becomes less about "having all the

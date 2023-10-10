@@ -1,7 +1,7 @@
 ---
 title: "Do you hate to ask for help?"
 date: 2022-05-16T09:40:21-04:00
-image: ask-for-help.jpg
+image: do-you-hate-to-ask-for-help.jpg
 image_attribution: "@nikkotations on Unsplash"
 ---
 

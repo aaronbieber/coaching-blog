@@ -1,7 +1,6 @@
 ---
 title: "Unplugging is good, actually"
 date: 2023-10-22T06:22:27-04:00
-draft: true
 image: suited-guy-in-hammock.jpg
 image_attribution: Midjourney AI
 ---
@@ -15,7 +14,7 @@ Everything that was wrong about that idea back then is still wrong now, yet we
 continue to glorify "disruptors" and "innovators" and believe that the
 "Protestant work ethic" is the gateway to wealth. Although working hard and
 committing yourself to a purpose are noble and useful habits, don't confuse raw,
-unmetered, self-destructive exertion with real leadership.
+unmetered, self-destructive exertion with good leadership.
 
 {{< dots >}}
 <!--more-->
@@ -78,9 +77,9 @@ how the team performs *when you're not around*.
 
 If you have some knowledge, skill, or insight that is crucial to the team's
 success on a day-to-day basis, you need to make it your top priority to share
-that with people on your teams immediately, starting this week. We like to think
-about team risk in terms of "What if so-and-so won the lottery and walked away
-tomorrow?" *That analysis needs to include **you***.
+that with people on your teams immediately, *starting this week*. We like to
+think about team risk in terms of "What if so-and-so won the lottery and walked
+away tomorrow?" *That analysis needs to include **you***.
 
 It's important that a team be able to function when someone is away. This is
 doubly true for you because it's literally your sole responsibility to ensure
@@ -96,9 +95,43 @@ upside down and you can't handle it."
 
 Use your absence as a key experiment in how well you've structured the
 environment to support the team's success. Do they understand how to mediate
-disagreements, discover solutions to novel problems, communicate their
-accomplishments and challenges to the appropriate parties, and reflect on how
-all of that is going for them on some regular basis? Do they celebrate what
-they've done well? Do they pivot when things are not going well?
+disagreements? Discover solutions to novel problems? Communicate their
+accomplishments and challenges to the appropriate parties? Reflect on how all of
+that is going for them on some regular basis? Do they celebrate what they've
+done well? Do they pivot when things are not going well?
 
 Make it your job to make all of the above *not your job*.
+
+{{< dots >}}
+
+When people look up to you---whether you are their direct manager, their
+"grandboss," or their technical lead---you have more influence than you imagine.
+The way you show up, how you prioritize your own life, how you take care of
+yourself is scrutinized and emulated, whether consciously or subconsciously.
+
+Being *too present* sends two harmful messages:
+
+1. Your team can't be trusted to figure things out for themselves.
+
+2. Working *more*, even if not *better*, is what you care about.
+
+Instead, put your energy into creating an environment in which, as Simon Sinek
+put it in "The Infinite Game," "[your] people can work to their natural best."
+When things aren't going well, scrutinize the frameworks you've created. What
+mechanisms will make these challenges resolve themselves? If they don't exist,
+*create them*.
+
+## Three questions for you:
+
+1. How do you create space for yourself to unplug?
+
+2. What iterative changes might you make in the environment that will help your
+   teams become more self-adjusting?
+
+3. What will you do *this week* to distribute more of the knowledge, skill, and
+   awareness within your teams?
+
+If you took something away from this, or put something into practice, I would
+love to hear about it. You can always write to me directly at
+aaron@aaronbieber.coach, or find me on Mastodon at
+[@aaronbieber@indieweb.social](https://indieweb.social/@aaronbieber).

@@ -11,9 +11,8 @@ of business requirements into functioning software.
 
 But, if you don't learn how to use AI, and stay abreast of what it can do, it
 may very well replace YOU. Let me put that differently: it will be the reason
-your boss replaces you.
+your boss replaces you.<!--more-->
 
-<!--more-->
 {{< dots >}}
 
 "First, solve the problem. Then, write the code." I have tried very hard to live

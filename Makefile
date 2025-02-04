@@ -12,5 +12,9 @@ build:
 	hugo --cleanDestinationDir -D -e production
 	./list-todos.sh
 
-deploy: build
+upload: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)
+
+deploy: upload
+	curl `cat webhook_url`
+	@echo ""

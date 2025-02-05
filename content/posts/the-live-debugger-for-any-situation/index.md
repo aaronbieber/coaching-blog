@@ -1,7 +1,7 @@
 ---
 title: "The live debugger for any situation"
 date: 2023-03-15T12:00:00-04:00
-image: live-debugger-for-any-career.png
+image: live-debugger-for-any-career.jpg
 image_attribution: Midjourney AI
 anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/The-live-debugger-for-any-situation-e20ft8u
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Ensure your happiness with a \"pre-mortem\""
 date: 2023-01-26T09:21:59-05:00
-image: ensure-your-happiness.png
+image: ensure-your-happiness.jpg
 image_attribution: Midjourney AI
 anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/Ensure-your-happiness-with-a-pre-mortem-e1vn416
 ---

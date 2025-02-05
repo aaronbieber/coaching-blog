@@ -1,7 +1,7 @@
 ---
 title: "Every \"should\" is a burden"
 date: 2025-02-04T06:40:42-05:00
-image: woman_bearing_the_weight_of_a_should.png
+image: woman_bearing_the_weight_of_a_should.jpg
 image_attribution: Midjourney AI
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Create a \"pit of success\""
 date: 2023-02-09T13:13:08-05:00
-image: success-pit.png
+image: success-pit.jpg
 image_attribution: Midjourney AI
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "To improve productivity do nothing"
 date: 2023-01-12T09:11:31-05:00
-image: to-improve-productivity.png
+image: to-improve-productivity.jpg
 image_attribution: Midjourney AI
 anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/To-improve-productivity-do-nothing-e1vn0qh
 ---

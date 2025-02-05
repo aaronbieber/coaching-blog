@@ -1,7 +1,7 @@
 ---
 title: "How to agree on something"
 date: 2023-05-17T05:58:05-04:00
-image: how-to-agree-on-something.png
+image: how-to-agree-on-something.jpg
 image_attribution: Midjourney AI
 anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/How-to-agree-on-something-e249sai
 ---

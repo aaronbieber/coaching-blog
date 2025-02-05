@@ -1,7 +1,7 @@
 ---
 title: "Simpler isn't actually better"
 date: 2023-03-30T07:00:00-04:00
-image: simpler-isnt-actually-better.png
+image: simpler-isnt-actually-better.jpg
 image_attribution: Midjourney AI
 anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/Simpler-isnt-actually-better-e21ddql
 ---

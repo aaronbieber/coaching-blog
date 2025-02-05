@@ -1,7 +1,7 @@
 ---
 title: "Innovation isn't an accident"
 date: 2023-03-02T11:00:42-05:00
-image: innovation-isnt-an-accident.png
+image: innovation-isnt-an-accident.jpg
 image_attribution: Midjourney AI
 anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/Innovation-isnt-an-accident-e1voi4b
 ---

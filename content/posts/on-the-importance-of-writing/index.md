@@ -1,7 +1,7 @@
 ---
 title: "On the Importance of Writing"
 date: 2023-04-11T06:14:49-04:00
-image: on-the-importance-of-writing.png
+image: on-the-importance-of-writing.jpg
 image_attribution: Midjourney AI
 anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/On-the-importance-of-writing-e22ncsp
 ---

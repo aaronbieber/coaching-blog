@@ -1,7 +1,7 @@
 ---
 title: "AI won't take your job (your boss will)"
 date: 2025-01-16T08:53:32-05:00
-image: robot-conqueror.png
+image: robot-conqueror.jpg
 image_attribution: Midjourney AI
 ---
 

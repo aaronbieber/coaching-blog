@@ -1,7 +1,7 @@
 ---
 title: "Newsletter update"
 date: 2023-10-04T06:37:15-04:00
-image: newsletter-update-2023.png
+image: newsletter-update-2023.jpg
 image_attribution: Midjourney AI
 ---
 

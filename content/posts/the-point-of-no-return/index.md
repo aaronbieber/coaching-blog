@@ -1,7 +1,7 @@
 ---
 title: "The point of no return"
 date: 2025-01-22T06:27:01-05:00
-image: people_in_chains.png
+image: people_in_chains.jpg
 image_attribution: Midjourney AI
 ---
 

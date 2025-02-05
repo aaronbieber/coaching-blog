@@ -1,7 +1,7 @@
 ---
 title: "What are your tendencies?"
 date: 2022-12-07T13:00:50-05:00
-image: what-are-your-tendencies.png
+image: what-are-your-tendencies.jpg
 image_attribution: Midjourney AI
 ---
 

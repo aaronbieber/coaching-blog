@@ -1,7 +1,7 @@
 ---
 title: "Challenge expectations"
 date: 2023-06-05T16:50:13-04:00
-image: challenge-expectations.png
+image: challenge-expectations.jpg
 image_attribution: Midjourney AI
 anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/Challenge-expectations-e25pbmd
 ---

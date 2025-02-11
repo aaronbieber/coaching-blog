@@ -1,8 +1,7 @@
 ---
 title: "Complexity is your highest cost"
-date: 2025-02-05T07:08:12-05:00
-draft: true
-image: complex-machine.png
+date: 2025-02-11T06:11:02-05:00
+image: complex-machine.jpg
 image_attribution: Midjourney AI
 ---
 
@@ -20,8 +19,8 @@ than Perl.
 
 That was the era of the "LAMP stack" (Linux, Apache, MySQL, PHP). The most
 complex thing about that stack was learning PHP's irrational syntax. I went on
-to work on PHP professionally at a few different companies and the biggest
-challenge was navigating a growing, and aging, codebase.
+to work with PHP professionally at a few different companies for over ten years
+and the biggest challenge was navigating a growing, and aging, codebase.
 
 Fast-forward to today. It doesn't matter what language you're writing. Your
 stack is probably 12 SaaS tools and 100 third-party libraries on the backend,
@@ -80,10 +79,11 @@ without incentives.
 Creating a culture of knowledge sharing requires more than goodwill. An
 incentive is a way that someone sees material reward for their actions. It's not
 enough to say "Confluence is right there, just write an article!" Who's going to
-do that when their performance review and bonus is based on creating customer
-value?
+do that when their performance review and bonus is based on writing features?
 
 When there are no material incentives, the only people who will share knowledge
 rigorously are the ones who enjoy doing it (that's what we call an "intrinsic
 motivation"). Part of your job as a leader is to put your thumb on the scale
-here. I believe in you.
+here.
+
+I believe in you!

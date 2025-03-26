@@ -6,23 +6,24 @@ image: person-on-stage.jpg
 image_attribution: Midjourney AI
 ---
 
-I've been doing some technical interviews lately at `$DAYJOB`, and a few of
-those experiences inspired me to write down some thoughts about mistakes I've
-seen and what I think you can do to be a great technical candidate. My
-interviews are for individual contributor roles, but a lot of this advice
-applies to any technical role, whether that's a hybrid "tech lead" type of
-position, engineering manager, or even a technical product manager.
+I've been doing some technical interviews lately at `$DAYJOB`, which has been
+fun and interesting to get back into. I used to interview engineers and managers
+all the time at previous jobs; I've probably interviewed hundreds of people by
+now. Meeting candidates and working through little challenges together can be a
+nice way to break up the day.
+
+But honestly I was shocked by how badly some of these recent interviews went.
 
 <!--more-->
 {{< dots >}}
 
-In complete honesty, I'm shocked at how badly some of my interviews went. I
-don't think this is because we did a poor job screening candidates, or even that
-the candidates themselves were *incapable* of meeting the requirements of the
-role. That said, many of these folks categorically failed to demonstrate their
-abilities and were passed over as a result.
+I don't think these interviews went south because we did a poor job screening
+candidates, or even that the candidates themselves were incapable of meeting the
+requirements of the role. They just categorically failed to demonstrate their
+abilities, which for me is the basis of a no-hire conclusion.
 
-Hopefully what I share here can help you to avoid that outcome for yourself!
+To avoid those pitfalls and show up as an impressive technical candidate, here
+is some advice you didn't ask for.
 
 ## Prepare!
 
@@ -32,20 +33,13 @@ doesn't start with some amount of rehearsal.
 
 First things first: research the company you're interviewing for. Assuming you'd
 actually like to land this job, you have a responsibility to learn as much as
-you can about it. During my time working at Wayfair, I interviewed so many
-engineering candidates who didn't, *even once*, browse the website.
+you can about it. When I worked on Wayfair's website, would you believe
+candidates came in who hadn't spent much time looking at the site at all?
 
-I like to ask domain-specific interview questions because I was that kid in
-school who was frustrated to learn abstract concepts like trigonometry without
-some notion of why they're useful. If you're coming to work on an e-commerce
-website, I'm going to ask you how you'd build querystring parameters to handle
-the search and filter options on a product browse page. Try to get an
-understanding of the domain, and have opinions about it.
-
-My favorite thing was when candidates had not only browsed the website, but had
-strong feelings about things we could do better, or ideas we could try. Even if
-they were stupid ideas, it showed that they gave it some thought and could
-imagine themselves in the driver's seat, contributing to the product.
+My favorite thing to see was when candidates had not only browsed the website,
+but had strong feelings about things we could do better, or ideas we could try.
+Even if they were stupid ideas, it showed that they gave it some thought and
+could imagine themselves in the driver's seat, contributing to the product.
 
 If the product is not a public website, or if the domain is a classically
 secretive one (like government contracting, defense, etc.), find out what you
@@ -72,7 +66,7 @@ And look, I know that this sucks, and I know that our industry's classic
 approach to interviewing is imperfect and that it's more of an art than a
 science to separate the signal from the noise, but if you show up to a technical
 round and can't cobble together a couple of functions in Javascript or Python or
-*something*, my faith in you is rapidly plummeting.
+*something*, my faith in you is going to rapidly plummet.
 
 I don't do "leetcode" interviews. Not as the interviewer nor as the candidate.
 If you can write a depth-first binary tree search from scratch all it really
@@ -80,11 +74,11 @@ tells me is that you can memorize things. Still, spending a little time leading
 up to an interview "sharpening your tools" by running through some exercises
 online is not a bad idea, and it can only help you.
 
-Get comfortable being asked a hard question and just breaking it down, writing
-out the questions you would ask an interviewer to steer your solution, and
-hashing out the structure of the code. To me, that's 90% of the job anyway. Can
-you collaborate, bring value through ideas, and translate your concepts into
-working code? How do you demonstrate that?
+Get comfortable being asked a hard question and breaking it down, writing out
+the questions you would ask an interviewer to steer your solution, and hashing
+out the structure of the code. To me, that's 90% of the job anyway. Can you
+collaborate, bring value through ideas, and translate your concepts into working
+code? How do you demonstrate that?
 
 ## Set the tone
 
@@ -100,20 +94,22 @@ on themselves and jumping under every bus that drives by.
 
 If you want to tell me that you're really anxious and that it takes you time to
 get comfortable working on a problem, that's fine! It can be hard to admit that
-to a stranger, and I applaud your honesty. But leave it at that.
+to a stranger, and I applaud your honesty. Honesty is good. Repeatedly making
+fun of yourself, though, only makes it easier for your interviewers to doubt
+you.
 
 If you're going to fail, if you have the sudden realization that you're way
 beyond your depth, make it your mission to flame out spectacularly! Dig in, try
 hard, focus on asking great questions, and get as far as you can with what you
 know. 
 
-I've hired countless engineers who could not complete the entire coding
-exercise because I know that smart, motivated people can use Google. What you
-need to demonstrate is that you can see where your gaps are and that you have
-some idea of how to fill them. Ask direct questions ("can I assume X?"), lean on
-your resources ("is it okay if I look this up real quick?"), and be clear about
-what you do and do not know ("I think a regular expression would be perfect
-here, but I don't remember the syntax").
+I've hired countless engineers who could not complete the entire coding exercise
+because I know that smart, motivated people can use Google. What you need to
+demonstrate is that you can see where your gaps are and that you have some idea
+of how to fill them. Ask direct questions ("can I assume X?"), lean on your
+resources ("is it okay if I look this up real quick?"), and be clear about what
+you do and do not know ("I think a regular expression would work here, but I
+don't remember the syntax").
 
 Self-awareness is a surprisingly rare and powerful attribute. Show that you know
 what you know, but frame it as a strength, because it is. Instead of "I'm so
@@ -121,6 +117,35 @@ rusty, I'm sorry I can't write this simple loop," spin it around into something
 like "I haven't written Javascript in a while but I know there is a syntax for
 this, is it okay if I look that up?"
 
+Finally, asking questions is great. But asking a question, stating your assumed
+answer aloud, and forging ahead without even pausing for any response is
+self-sabotage. Interviewers, more often than not, want to help you, because they
+want to know what it would be like to work with you. If you're going to ask the
+question, wait to hear the answer.
+
 ## How to do a great interview
 
-** Go ahead and do interviews for reps!
+I'll summarize everything into a tidy list for you:
+
+* Prepare by researching the company and its products, and forming opinions
+  about them.
+
+* Sharpen your tools: know the basic syntax of a popular scripting language that
+  is likely to be used in interviews, like Python or Javascript. Assume that
+  you'll be asked to write code that runs.
+
+* Acknowledge your weaknesses, but show up as the most confident version of
+  yourself that you can find.
+
+* Collaboration means listening, at least part of the time. Don't forget to use
+  your interviewers as resources to help you move past sticking points.
+
+## Questions for you
+
+1. What do you look for in a candidate, and how do you bring that forward when
+   you are one?
+
+2. What is one thing you want to be better at in an interview, and how will you
+   practice it?
+
+3. What can you take away from this that will help you in your day-to-day work?

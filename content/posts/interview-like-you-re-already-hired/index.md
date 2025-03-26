@@ -2,7 +2,7 @@
 title: "Interview like you're already hired"
 date: 2024-03-26T06:30:23-04:00
 draft: true
-image: any-image.jpg
+image: person-on-stage.jpg
 image_attribution: Midjourney AI
 ---
 

@@ -10,3 +10,10 @@ theme = 'coaching'
       unsafe = true
     [markup.goldmark.parser]
       attribute = true
+    [markup.goldmark.extensions]
+      strikethrough = false
+      [markup.goldmark.extensions.extras]
+          [markup.goldmark.extensions.extras.delete]
+            enable = true
+          [markup.goldmark.extensions.extras.subscript]
+            enable = true

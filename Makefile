@@ -16,5 +16,3 @@ upload: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)
 
 deploy: upload
-	curl `cat webhook_url`
-	@echo ""

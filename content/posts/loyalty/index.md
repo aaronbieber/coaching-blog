@@ -3,6 +3,7 @@ title: "Loyalty"
 date: 2026-02-02T07:11:14-05:00
 image: handshake.jpg
 image_attribution: ChatGPT
+anchorURL: https://open.spotify.com/embed/episode/4U2rQxPNdfQjnWIwFO8sRk
 ---
 
 I've been thinking a lot about loyalty lately.

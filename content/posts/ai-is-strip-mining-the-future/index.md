@@ -1,7 +1,6 @@
 ---
 title: "AI is strip mining the future"
 date: 2026-02-05T12:55:29-05:00
-draft: true
 image: strip-mining.png
 image_attribution: Gemini Nano Banana
 ---

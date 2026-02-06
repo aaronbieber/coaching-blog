@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+<div class="homepage-content">
+{{ .Content }}
+</div>
+
+<div class="narrow">
+  <h2 class="recent-articles-heading">LATEST ARTICLE</h2>
+</div>
+
+<div class="narrow homepage-posts" id="recent-posts">
+  {{ .Scratch.Set "pages" (where .Site.RegularPages "Type" "in" "posts") }}
+  {{ if eq hugo.Environment "production" }}
+  {{ .Scratch.Set "pages" (where (where .Site.RegularPages "Draft" false) "Type" "in" "posts") }}
+  {{ end }}
+
+  {{ $pages := (.Scratch.Get "pages") }}
+  {{ $recentPosts := first 5 $pages }}
+  {{ $firstPost := first 1 $recentPosts }}
+  {{ $remainingPosts := after 1 $recentPosts }}
+  
+  {{ range $firstPost }}
+  {{- partial "articles.html" . -}}
+  {{ end }}
+</div>
+
+<div class="narrow">
+  <h2 class="recent-articles-heading">RECENT ARTICLES</h2>
+</div>
+
+<div class="narrow homepage-grid" id="recent-grid">
+  {{ range $remainingPosts }}
+  {{- partial "homepage-articles.html" . -}}
+  {{ end }}
+</div>
+
+<div class="narrow">
+  <div class="read-more-wrapper centered">
+    <a href="/posts/" class="read-more-link">Read more posts &rarr;</a>
+  </div>
+</div>
+
+<style>
+.homepage-content {
+  margin-bottom: 1rem;
+}
+
+.recent-articles-heading {
+  font-family: proxima-nova;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: rgba(26,26,26,0.9);
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
+.homepage-grid {
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: stretch;
+}
+
+.homepage-grid .entry {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.homepage-grid .entry-header {
+  margin-bottom: 0;
+}
+
+.homepage-grid .entry-title {
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+.homepage-grid .entry-image {
+  max-height: 170px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+body .homepage-grid .entry + .entry,
+body .homepage-grid article + article {
+  margin-top: 0 !important;
+}
+
+@media only screen and (max-width: 850px) {
+  .homepage-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+.read-more-wrapper.centered {
+  text-align: center;
+  margin: 2rem 0;
+}
+</style>
+
+{{ end }}

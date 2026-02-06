@@ -1,6 +1,8 @@
 ---
 title: The Curious Leader
-navigation: false
+subtitle: Big ideas to catalyze your growth
+navigation: true
+banner: true
 image: live-debugger-for-any-career.png
 ---
 
@@ -14,14 +16,9 @@ industry that feels under-explored. It's nominatively about leadership, but not
 always "positional leadership." The Curious Leader is about taking the wheel in
 your life; there are no passengers, only drivers.
 
-{{< hr >}}
-
+<!-- 
+Subscribe form preserved for later use:
 {{< subscribe >}}
-
-{{< hr >}}
-
-<div class="skip_subscribe">
-  <a href="/posts/">Let me read it first »</a>
-</div>
+-->
 
 {{< /narrow >}}

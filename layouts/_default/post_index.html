@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <div class="narrow">
+    <h2 class="archives-heading">THE ARCHIVES</h2>
+  </div>
+  
+  <div class="narrow posts-index">
+    {{ .Scratch.Set "pages" (where .Site.RegularPages "Type" "in" "posts") }}
+    {{ if eq hugo.Environment "production" }}
+    {{ .Scratch.Set "pages" (where (where .Site.RegularPages "Draft" false) "Type" "in" "posts") }}
+    {{ end }}
+
+    {{ $allPages := (.Scratch.Get "pages") }}
+    {{ $remainingPages := after 5 $allPages }}
+
+    {{ range (.Paginate $remainingPages 5).Pages }}
+    {{- partial "articles.html" . -}}
+    {{ end }}
+
+    <hr/>
+
+    {{- partial "paginator.html" . -}}
+  </div>
+
+<style>
+.archives-heading {
+  font-family: proxima-nova;
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: rgba(26,26,26,0.9);
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  text-transform: uppercase;
+}
+
+.posts-index .entry + .entry {
+  margin-top: 64px !important;
+}
+</style>
+
+{{ end }}

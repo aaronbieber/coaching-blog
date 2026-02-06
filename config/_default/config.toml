@@ -1,6 +1,9 @@
+baseURL = '/'
 languageCode = 'en-us'
 title = 'The Curious Leader'
 theme = 'coaching'
+canonifyURLs = false
+relativeURLs = true
 [params]
   subtitle = 'Big ideas to catalyze your growth'
 

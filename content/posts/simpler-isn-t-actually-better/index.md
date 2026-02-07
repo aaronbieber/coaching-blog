@@ -3,7 +3,7 @@ title: "Simpler isn't actually better"
 date: 2023-03-30T07:00:00-04:00
 image: simpler-isnt-actually-better.jpg
 image_attribution: Midjourney AI
-anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/Simpler-isnt-actually-better-e21ddql
+podcast: https://open.spotify.com/embed/episode/7aVVwHjGgGMPyxyFjOdZQX
 ---
 
 One of the most challenging aspects of technical leadership, or any leadership

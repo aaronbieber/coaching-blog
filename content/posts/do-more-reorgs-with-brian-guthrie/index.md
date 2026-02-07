@@ -3,7 +3,7 @@ title: "\"Do more reorgs\" with Brian Guthrie"
 date: 2023-05-04T13:46:58-04:00
 image: do-more-reorgs.jpg
 image_attribution: Midjourney AI
-anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/Do-more-reorgs-with-Brian-Guthrie-e23gint
+podcast: https://open.spotify.com/embed/episode/7tIQnOXmhR6w6C3ZyEXVil
 ---
 
 Instead of bringing you another analysis of a leadership topic laced through and

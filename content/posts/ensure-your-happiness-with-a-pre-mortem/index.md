@@ -3,7 +3,7 @@ title: "Ensure your happiness with a \"pre-mortem\""
 date: 2023-01-26T09:21:59-05:00
 image: ensure-your-happiness.jpg
 image_attribution: Midjourney AI
-anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/Ensure-your-happiness-with-a-pre-mortem-e1vn416
+podcast: https://open.spotify.com/embed/episode/3niElGyYxQaAvbypYL3Ehm
 ---
 
 One of the best ways to improve a system is to carefully and objectively analyze

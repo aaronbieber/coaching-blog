@@ -10,9 +10,9 @@
 
   <h1>{{ .Title }}</h1>
 
-  {{ if .Params.anchorURL }}
+  {{ if .Params.podcast }}
   <div class="anchor-player">
-    <iframe src="{{ .Params.anchorURL }}"
+    <iframe src="{{ .Params.podcast }}"
             style="width: 100%;"
             height="102px"
             frameborder="0"

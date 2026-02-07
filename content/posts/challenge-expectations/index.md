@@ -3,7 +3,7 @@ title: "Challenge expectations"
 date: 2023-06-05T16:50:13-04:00
 image: challenge-expectations.jpg
 image_attribution: Midjourney AI
-anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/Challenge-expectations-e25pbmd
+podcast: https://open.spotify.com/embed/episode/2IYLXfKE7MUW4IJGOnKFFO
 ---
 
 This comic from "marketoonist.com" showed up on LinkedIn somewhere and made me

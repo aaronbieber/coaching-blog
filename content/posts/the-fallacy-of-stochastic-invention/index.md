@@ -3,7 +3,7 @@ title: "The \"Fallacy of Stochastic Invention\""
 date: 2024-01-20T07:00:54-05:00
 image: particle-collisions.jpg
 image_attribution: Midjourney AI
-anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/The-Fallacy-of-Stochastic-Innovation-e2f2ve2
+podcast: https://open.spotify.com/embed/episode/3wnx1xIWhuuSHNwvE5wKqd
 ---
 
 If you haven't seen this video that WebMD parent company "Internet Brands" sent

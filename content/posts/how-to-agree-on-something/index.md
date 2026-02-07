@@ -3,7 +3,7 @@ title: "How to agree on something"
 date: 2023-05-17T05:58:05-04:00
 image: how-to-agree-on-something.jpg
 image_attribution: Midjourney AI
-anchorURL: https://podcasters.spotify.com/pod/show/the-curious-leader/embed/episodes/How-to-agree-on-something-e249sai
+podcast: https://open.spotify.com/embed/episode/05QZEZnrUh9nN8spCEmfQj
 ---
 
 The foundation of a healthy working relationship is agreement. Even when people

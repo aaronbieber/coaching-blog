@@ -3,7 +3,7 @@ title: "To improve productivity do nothing"
 date: 2023-01-12T09:11:31-05:00
 image: to-improve-productivity.jpg
 image_attribution: Midjourney AI
-anchorURL: https://anchor.fm/the-curious-leader/embed/episodes/To-improve-productivity-do-nothing-e1vn0qh
+podcast: https://open.spotify.com/embed/episode/5kLLNoT8PRUtiZLs6Uj7uh
 ---
 
 Let's say you want your workers to be more productive. As the leader of a large

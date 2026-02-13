@@ -1,5 +1,0 @@
-{{ $class := (.Get 0) }}
-{{ with .Page.Resources.GetMatch (.Get 1) }}
-<img class="{{ $class }}" src="{{ .RelPermalink }}">
-{{ end }}
-{{ with .Get 2 }}<figcaption>{{ . }}</figcaption>{{ end }}

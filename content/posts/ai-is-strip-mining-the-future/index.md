@@ -1,7 +1,7 @@
 ---
 title: "AI is strip mining the future"
 date: 2026-02-05T12:55:29-05:00
-image: strip-mining.png
+image: strip-mining.jpg
 image_attribution: Gemini Nano Banana
 podcast: https://open.spotify.com/embed/episode/0KcQQA4swhKYhNFQzPVZzf
 ---

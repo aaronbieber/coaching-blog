@@ -1,5 +1,5 @@
 ---
-title: "On the Importance of Writing"
+title: "On the importance of writing"
 date: 2023-04-11T06:14:49-04:00
 image: on-the-importance-of-writing.jpg
 image_attribution: Midjourney AI

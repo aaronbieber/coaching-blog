@@ -4,8 +4,9 @@
       "Read(//home/airborne/src/coaching-theme/**)",
       "Bash(hugo)",
       "Bash(find:*)",
-      "Bash(git add:*)",
-      "Bash(git restore:*)"
+      "Bash(git:*)",
+      "Bash(hugo:*)",
+      "Bash(grep:*)",
     ],
     "deny": [],
     "ask": []

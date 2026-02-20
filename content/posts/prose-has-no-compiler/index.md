@@ -43,11 +43,11 @@ together words that express them is pretty easy, and I regret to inform you that
 this way of writing is the default approach used by most of the people you
 interact with every day.
 
-Good writing---that is, writing precisely, clearly, and in a manner accessible
-to your specific audience---is hard. Much of what you perceive as the difficulty
-of writing is, in fact, the difficulty of thinking. As notable computer
-scientist Leslie Lamport put it, "Writing is nature's way of telling you how
-fuzzy your thinking is."
+As notable computer scientist Leslie Lamport put it, "Writing is nature's way of
+telling you how fuzzy your thinking is." Decades of cognitive science support
+the idea that writing is not simply a recording medium, but a tool for *thought
+construction*. Amazon famously weaponized this by replacing all presentations
+with "six-pagers," which I covered in [my previous article][writing].
 
 It's *good* that it's hard. The hard part is the actual work. If you've exerted
 little effort, you've produced little value.

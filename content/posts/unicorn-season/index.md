@@ -80,24 +80,21 @@ There is almost no place for Taylorism in today's software development
 ecosystem, yet we cling to its ideals because it makes us extremely nervous not
 to try to measure things.
 
-## What we're getting wrong
+## The wrong measurement
 
-Not to stray too far from the thesis here, but our industry suffers from a
-structural incoherence between the unit of production and the unit of reward.
-That misalignment keeps the "10x engineer myth" alive, and also, I might add,
-leaves a lot of money on the table.
+To understand why the myth of the 10x engineer persists, you have to see the
+structural problem underneath it.
 
 Software development at any real scale is a team sport. This is why we have
 teams, or squads, or pods, or whatever you choose to call them. In any context
 where a "10x engineer" is a hypothetically useful concept, these engineers exist
 within a system of people.
 
-Elizabeth Ayer, in her piece "[Annual Performance Reviews Ruin Everything][ea],"
-writes "But anything---*anything*---which judges people by their effect on a
-system makes them take individual responsibility for things which are, by
-definition, not their sole responsibility."
-
-[ea]: https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a
+Judging people by their effect on a system burdens them with individual
+responsibility for things that are not their sole responsibility *by
+definition*[^1]. If you've managed engineers for any length of time, you've felt
+the anxiety of trying to explain systemic problems through the lens of
+individual performance.
 
 The product of a collaborative team is better than that which would be created
 by one member of it alone. Teams build products, not individuals. Yet our
@@ -105,30 +102,35 @@ measures are all centered around individuals, and we lionize this mythical "10x
 engineer" who can produce 10 times better code, or do it 10 times faster.
 
 This team-blindness in our measurement and performance management systems is a
-*compounding organizational failure*.
+*compounding organizational failure*. It actively prevents organizations from
+building what actually matters: a self-reinforcing team capability that we might
+call organizational leverage.
 
-## Why we're getting it wrong
+## How our measurements are hurting us
 
-The "10x engineer" mythology, and all of its supporting individualized
-performance metrics, serves to: tolerate toxic individuals, avoid investment in
-systems, provide cover for bad management, and worst of all, launders bias as
-meritocracy.
+The "10x engineer" mythology serves organizational dysfunction in ways we rarely
+name directly. It gives management an excuse to tolerate toxic individuals ("but
+their output!") while avoiding the harder investment in team systems that would
+make that individual irrelevant.
 
-All of the above is covered in great detail in Ayer's piece linked above, which
-I strongly recommend you read. We simply love the idea that there are these
-"unicorn" engineers who are so smart and productive that if we could just hire a
-couple of them we'd surely get ahead of the game.
+More insidiously, it launders bias as meritocracy. The engineers who get
+pattern-matched as "10x" skew toward the loudest in architecture discussions,
+most visible in commit logs, most comfortable with self-promotion in reviews.
+The unicorn hunt doesn't find the best engineers, it finds the most legible
+ones, the ones with "highlight reels."
 
-That perspective is willfully blind to the way we actually build software, and
-falls apart under just a few minutes of careful scrutiny. But the status quo has
-immense staying power, so we continue our charade.
+That perspective is willfully blind to the way we actually build software, but
+the status quo has immense staying power, so we continue our charade.
+
+Tech isn't the only metrics-obsessed industry, though. There is another industry
+that overcame the narrow thinking we seem to be stuck in: professional sports.
 
 ## Who got it right
 
-Until the mid-1980s, professional sports did the same thing. Team rosters were
-built based on legible individual stats; what you'd think of as "highlight reel"
-performances. This certainly worked for a long time, but there was a better way
-just waiting to be discovered.
+Until the mid-1980s, professional sports built rosters the same way we build
+engineering teams. Players were hired based on legible individual stats; what
+you'd think of as "highlight reel" performances. This certainly worked for a
+long time, but there was a better way just waiting to be discovered.
 
 The shift has been called the "Moneyball revolution," after the famous Michael
 Lewis book that covered the Oakland A's shift away from traditional
@@ -162,19 +164,26 @@ The engineering industry is still playing 1985 baseball.
 
 ## AI isn't helping
 
-With the proliferation of incredible new tools like Claude Code and Google
-Antigravity, the "10x engineer" myth has surged back into the spotlight. Armed
-with cutting-edge LLMs, these 10x engineers will become 100x engineers it is
-claimed. Imagine what we'll be able to create now!
+With the proliferation of incredible new tools like Claude Code and GitHub
+Copilot, the "10x engineer" myth has surged back into the spotlight. Armed with
+cutting-edge LLMs, these 10x engineers will become 100x engineers it is claimed.
+Imagine what we'll be able to create now!
 
 But rather than forcing us to reckon with the broken foundation of our
 performance measurement systems, this discourse is doubling down on the legible
-individual stats fever dream. It's giving the engineering culture permission to
-continue avoiding the harder work.
+individual stats fever dream. AI tools make individual output more visible and
+legible than ever before. One engineer shipping ten times more code looks
+exactly like the 10x myth made real.
 
-Meanwhile, all of the evidence to the contrary is right in front of us. We
-simply choose not to make the hard choices. We choose to dig the hole just a
-little bit deeper so that more of our head can fit into it.
+What it obscures is everything that doesn't show up in a commit log, but is
+instrumental in creating the durable, sustainable business value the
+organization actually seeks: smart code reviews, mentorship that makes five
+other engineers more effective, institutional knowledge that steers projects
+through ambiguity.
+
+It's giving the engineering culture permission to continue avoiding the harder
+work. AI is helping us dig the hole just a little bit deeper so that more of our
+head can fit into it.
 
 ## The infinite game
 
@@ -186,12 +195,12 @@ In professional sports, there are games and seasons. There are "scoreboard
 moments" to reveal the cost of bad decisions, to expose and reset bad
 strategies. Engineering organizations don't have those forcing functions as
 such. The "10x engineer" myth doesn't just produce bad decisions, it produces
-bad decisions that compound indefinitely.
+bad decisions that compound indefinitely, and our annual performance review
+cycles are the engine that keeps them running, year after year.
 
-What's worse, we all participate in this *performance review kabuki* that serves
-to convince us year over year that we are making the right decisions, that we
-are rewarding the right people for the right reasons. Ironically, it is often
-doing the exact opposite.
+This *performance review kabuki* "datawashes" our flawed assumptions so that
+organizations can convince themselves that they are rewarding the right people
+for the right reasons. Ironically, it is often doing the exact opposite.
 
 Building organizational leverage isn't just the smarter way to stay in the game
 indefinitely, it's the only strategy that actually works in either game. The
@@ -213,3 +222,9 @@ The multiplier you've been looking for is real, but it lives in the system, not
 the person. The organizations that figure that out don't just save money and
 build better products, they become the kind of place where people *do the best
 work of their careers*.
+
+It starts with a simple shift: stop measuring what individuals produce in
+isolation and start measuring what teams deliver together. Stop hunting unicorns
+and start building systems where good engineers become great ones.
+
+[^1]: Elizabeth Ayer, [Annual Performance Reviews Ruin Everything][https://medium.com/@ElizAyer/annual-performance-reviews-ruin-everything-7464e07dff3a]

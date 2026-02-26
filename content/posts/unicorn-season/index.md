@@ -1,7 +1,6 @@
 ---
 title: "Unicorn season"
-#date: 2026-03-20T05:00:00-05:00
-date: 2026-02-22T14:14:39-05:00
+date: 2026-03-20T05:00:00-05:00
 draft: true
 image: unicorn-season.jpg
 image_attribution: Gemini Nano Banana

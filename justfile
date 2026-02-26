@@ -11,7 +11,7 @@ scale:
 
 # Build the site
 build:
-    hugo --cleanDestinationDir -D -e production
+    hugo --cleanDestinationDir -D -F -e production
     ./list-todos.sh
 
 # Upload the built site

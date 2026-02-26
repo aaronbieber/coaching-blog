@@ -1,6 +1,8 @@
 ---
 title: "Unicorn season"
-date: 2026-03-20T05:00:00-05:00
+#date: 2026-03-20T05:00:00-05:00
+date: 2026-02-22T14:14:39-05:00
+draft: true
 image: unicorn-season.jpg
 image_attribution: Gemini Nano Banana
 ---
@@ -181,8 +183,13 @@ organization actually seeks: smart code reviews, mentorship that makes five
 other engineers more effective, institutional knowledge that steers projects
 through ambiguity.
 
-It's giving the engineering culture permission to continue avoiding the harder
-work. AI is helping us dig the hole just a little bit deeper so that more of our
+A professional athlete's individual scoring stats are *not predictive* of
+overall team success. In the same way, *amount of code produced* or even
+*ability to prompt AI agents* is not predictive of the resulting software's
+stability, maintainability, or fitness for purpose.
+
+AI is giving the engineering culture permission to continue avoiding the harder
+work. It's helping us dig the hole just a little bit deeper so that more of our
 head can fit into it.
 
 ## The infinite game
